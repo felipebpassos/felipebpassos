@@ -1,4 +1,4 @@
-# Hello, I'm [Your Name] 👋
+# Hello, I'm Felipe Passos 👋
 
 I am a passionate fullstack developer with experience in building innovative and efficient solutions. I thrive on technical challenges and enjoy working on projects that make a positive impact.
 
@@ -8,18 +8,20 @@ As a fullstack developer, I work with a wide range of technologies and tools to 
 
 - **Mobile Development**: Creating robust and responsive mobile apps using React Native.
 - **Backend**: Developing and managing RESTful APIs with Node.js, supporting both relational and non-relational databases.
-- **DevOps**: Implementing solutions with Docker and managing environments on AWS, including S3 for storage.
-- **Frontend Web**: Building websites and landing pages with HTML, CSS, and JavaScript, and creating rich interfaces with React.
-- **API Integration**: Working with external APIs, such as the Instagram API, to enhance application functionality.
+- **DevOps and Cloud Integration**: Implementing solutions with Docker and managing environments on AWS, including S3 for storage and integrating cloud services.
+- **Frontend Web**: Building websites and landing pages with HTML, CSS, JavaScript, and using frameworks like Bootstrap and Tailwind CSS to enhance design and responsiveness.
+- **API Integration**: Working with external APIs, such as the Instagram API, Vimeo, and YouTube, as well as integrating AWS S3 for image storage and management. Implementing OAuth authentication with Facebook and Google to enhance user authentication and login processes.
 
 ## 🛠️ Technologies and Tools
 
-- **Languages**: JavaScript, TypeScript, HTML, CSS
+- **Languages**: JavaScript, PHP, HTML, CSS
 - **Frameworks and Libraries**: React, React Native, Node.js, Express
-- **Databases**: PostgreSQL, MongoDB, MySQL
+- **Databases**: MySQL, MongoDB 
 - **DevOps and Infrastructure**: Docker, AWS (S3), CI/CD
+- **Frontend Frameworks**: Bootstrap, Tailwind CSS
 - **Version Control**: Git
-- **APIs**: Instagram API
+- **APIs**: Instagram API, Vimeo API, YouTube API, AWS S3
+- **Authentication**: OAuth (Facebook, Google)
 
 ## 💼 Highlighted Projects
 
@@ -45,9 +47,9 @@ As a fullstack developer, I work with a wide range of technologies and tools to 
 ## 🌟 Skills
 
 - **Fullstack Development**: Experience in both frontend and backend development.
-- **API Integration**: Ability to work with various APIs to expand application functionality.
-- **DevOps**: Implementation and management of containerized solutions and cloud services.
-- **Responsive Design**: Creating interfaces that adapt to different devices and screen sizes.
+- **API Integration**: Ability to work with various APIs, including AWS S3, Vimeo, YouTube, and OAuth authentication (Facebook, Google) to expand application functionality.
+- **DevOps and Cloud Integration**: Experience with Docker, AWS S3, and integrating cloud services into applications.
+- **Responsive Design**: Creating interfaces with frameworks like Bootstrap and Tailwind CSS that adapt to different devices and screen sizes.
 
 ## 📫 Contact
 
@@ -62,4 +64,3 @@ Thank you for visiting my profile!
 ---
 
 *This README is a general overview and is always evolving. Information may be updated as new projects and technologies are incorporated.*
-
