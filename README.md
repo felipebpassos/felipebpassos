@@ -3,11 +3,11 @@
 As a fullstack developer, I work with a wide range of technologies and tools to build and optimize applications and systems. My experience includes:
 
 - **Mobile Development**: Creating robust and responsive mobile apps using React Native.
-- **Frontend Web**: Building websites and landing pages with HTML, CSS, JavaScript, and creating dynamic web applications using React. Utilizing frameworks like Bootstrap and Tailwind CSS to enhance design and responsiveness.
-- **Backend**: Developing and managing RESTful APIs with Node.js, supporting both relational and non-relational databases.
+- **Frontend Web**: Building websites and landing pages with HTML, CSS, JavaScript, and creating dynamic web applications using React.
+- **Backend**: Developing and managing RESTful APIs with Node.js, using both relational and non-relational databases.
 - **DevOps and Cloud Integration**: Implementing solutions with Docker and managing environments on AWS, including S3 for storage and integrating cloud services.
-- **API Integration**: Working with external APIs, such as the Instagram API, Vimeo, and YouTube, as well as integrating AWS S3 for image storage and management. Implementing OAuth authentication with Facebook and Google to enhance user authentication and login processes.
-
+- **API Integration**: Working with external APIs, such as the Instagram API, Vimeo, and YouTube, as well as integrating AWS S3 for image storage and management.
+  
 ## 🛠️ Technologies and Tools
 
 - **Languages**: JavaScript, PHP, HTML, CSS
