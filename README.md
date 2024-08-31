@@ -1,4 +1,4 @@
-# **Felipe Passos | Software Engineer | Website 💻 and Apps 📱**
+# **Felipe Passos | Software Engineer | Websites 💻 and Apps 📱**
 Node.js | React | React Native | PHP
 
 As a fullstack developer, I work with a wide range of technologies and tools to build and optimize applications and systems. My experience includes:
