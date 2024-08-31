@@ -9,6 +9,13 @@ As a fullstack developer, I work with a wide range of technologies and tools to 
 - **API Integration**: Working with external APIs, such as the Instagram API, Vimeo, and YouTube, as well as integrating AWS S3 for image storage and management.
 - **Responsive Design**: Creating interfaces with frameworks like Bootstrap and Tailwind CSS that adapt to different devices and screen sizes.
 
+## 💼 Highlighted Projects
+
+### [Project Name 1](link-to-repository)
+- **Description**: Brief description of the project and your contributions.
+- **Technologies**: React Native, Node.js, MongoDB
+- **Highlights**: Key features and impact of the project.
+
 ## 🛠️ Technologies and Tools
 
 - **Languages**: JavaScript, PHP, HTML, CSS
@@ -19,13 +26,6 @@ As a fullstack developer, I work with a wide range of technologies and tools to 
 - **Version Control**: Git
 - **APIs**: Instagram API, Vimeo API, YouTube API, AWS S3
 - **Authentication**: OAuth (Facebook, Google)
-
-## 💼 Highlighted Projects
-
-### [Project Name 1](link-to-repository)
-- **Description**: Brief description of the project and your contributions.
-- **Technologies**: React Native, Node.js, MongoDB
-- **Highlights**: Key features and impact of the project.
 
 ### [Project Name 2](link-to-repository)
 - **Description**: Brief description of the project and your contributions.
