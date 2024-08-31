@@ -45,7 +45,7 @@ As a fullstack developer, I work with a wide range of technologies and tools to 
 
 I am always open to new opportunities and collaborations. Feel free to [email me](mailto:contato@simplifyweb.com.br) or connect with me on social media.
 
-- **LinkedIn**: [Felipe B. Passos](link-to-your-linkedin-profile)
+- **LinkedIn**: [Felipe B. Passos](https://www.linkedin.com/in/felipe-b-passos-70a075138/)
 - **Instagram**: [@simplifyweb](https://www.instagram.com/simplifyweb/)
 - **Website/Portfolio**: [simplifyweb.com.br](https://simplifyweb.com.br/)
 
