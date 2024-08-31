@@ -7,7 +7,8 @@ As a fullstack developer, I work with a wide range of technologies and tools to 
 - **Backend**: Developing and managing RESTful APIs with Node.js, using both relational and non-relational databases.
 - **DevOps and Cloud Integration**: Implementing solutions with Docker and managing environments on AWS, including S3 for storage and integrating cloud services.
 - **API Integration**: Working with external APIs, such as the Instagram API, Vimeo, and YouTube, as well as integrating AWS S3 for image storage and management.
-  
+- **Responsive Design**: Creating interfaces with frameworks like Bootstrap and Tailwind CSS that adapt to different devices and screen sizes.
+
 ## 🛠️ Technologies and Tools
 
 - **Languages**: JavaScript, PHP, HTML, CSS
@@ -40,20 +41,13 @@ As a fullstack developer, I work with a wide range of technologies and tools to 
 
 - **[Open Source Repository Name](link-to-repository)**: Description of your contributions to this open source project.
 
-## 🌟 Skills
-
-- **Fullstack Development**: Experience in both frontend and backend development.
-- **API Integration**: Ability to work with various APIs, including AWS S3, Vimeo, YouTube, and OAuth authentication (Facebook, Google) to expand application functionality.
-- **DevOps and Cloud Integration**: Experience with Docker, AWS S3, and integrating cloud services into applications.
-- **Responsive Design**: Creating interfaces with frameworks like Bootstrap and Tailwind CSS that adapt to different devices and screen sizes.
-
 ## 📫 Contact
 
-I am always open to new opportunities and collaborations. Feel free to [email me](mailto:your-email@example.com) or connect with me on social media.
+I am always open to new opportunities and collaborations. Feel free to [email me](mailto:contato@simplifyweb.com.br) or connect with me on social media.
 
 - **LinkedIn**: [Your LinkedIn Profile](link-to-your-linkedin-profile)
-- **Twitter**: [Your Twitter](link-to-your-twitter)
-- **Website/Portfolio**: [Your Website](link-to-your-website)
+- **Instagram**: [Your Instagram](https://www.instagram.com/simplifyweb/)
+- **Website/Portfolio**: [Your Website](https://simplifyweb.com.br/)
 
 Thank you for visiting my profile!
 
