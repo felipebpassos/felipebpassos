@@ -26,6 +26,10 @@ As a fullstack developer, I work with a wide range of technologies and tools to 
 - **Technologies**: HTML, CSS, JavaScript
 - **Highlights**: Key features and impact of the project.
 
+## 📈 Open Source Contributions
+
+- **[Open Source Repository Name](link-to-repository)**: Description of your contributions to this open source project.
+
 ## 🛠️ Technologies and Tools
 
 - **Languages**: JavaScript, PHP, HTML, CSS
@@ -36,10 +40,6 @@ As a fullstack developer, I work with a wide range of technologies and tools to 
 - **Version Control**: Git
 - **APIs**: Instagram API, Vimeo API, YouTube API, AWS S3
 - **Authentication**: OAuth (Facebook, Google)
-
-## 📈 Open Source Contributions
-
-- **[Open Source Repository Name](link-to-repository)**: Description of your contributions to this open source project.
 
 ## 📫 Contact
 
