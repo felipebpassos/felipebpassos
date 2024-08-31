@@ -1,9 +1,5 @@
 # Hello, I'm Felipe Passos 👋
 
-I am a passionate fullstack developer with experience in building innovative and efficient solutions. I thrive on technical challenges and enjoy working on projects that make a positive impact.
-
-## 🚀 About Me
-
 As a fullstack developer, I work with a wide range of technologies and tools to build and optimize applications and systems. My experience includes:
 
 - **Mobile Development**: Creating robust and responsive mobile apps using React Native.
