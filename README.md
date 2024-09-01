@@ -16,10 +16,10 @@ As a fullstack developer, I work with a wide range of technologies and tools to 
 - **Technologies**: Node.js, JWT, MySQL, AWS S3
 - **Highlights**: AWS S3 keeps storage simple, secure, and cost-effective. It scales with your project, so you only pay for what you use. Pre-signed URLs protect your files, making sure only the right people can access them. It’s a smart choice for handling media in any growing app.
 
-### [Project Name 2](link-to-repository)
-- **Description**: Brief description of the project and your contributions.
-- **Technologies**: React, Node.js, PostgreSQL
-- **Highlights**: Key features and impact of the project.
+### [Website and Blog](https://github.com/felipebpassos/Website-and-Blog)
+- **Description**: A professional website with a built-in CMS for easy blog management.
+- **Technologies**: PHP MVC, MySQL, CKEditor, CKFinder
+- **Highlights**: The integrated CMS allows for seamless blog content creation and updates, making it easy to manage without technical knowledge. Ideal for maintaining a professional online presence.
 
 ### [Project Name 3](link-to-repository)
 - **Description**: Brief description of the project and your contributions.
