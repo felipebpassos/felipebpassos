@@ -11,9 +11,9 @@ As a fullstack developer, I work with a wide range of technologies and tools to 
 
 ## Highlighted Projects
 
-### [Project Name 1](link-to-repository)
-- **Description**: Brief description of the project and your contributions.
-- **Technologies**: React Native, Node.js, MongoDB
+### [S3Gallery](https://github.com/felipebpassos/S3Gallery)
+- **Description**: photos and videos stored in a AWS S3 bucket gallery.
+- **Technologies**: Node.js, MySQL, AWS S3
 - **Highlights**: Key features and impact of the project.
 
 ### [Project Name 2](link-to-repository)
