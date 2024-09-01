@@ -9,7 +9,7 @@ As a fullstack developer, I work with a wide range of technologies and tools to 
 - **DevOps and Cloud Integration**: Implementing solutions with Docker and managing environments on AWS, including S3 for storage and integrating cloud services.
 - **API Integration**: Working with external APIs, such as the Instagram API, Vimeo, and YouTube, as well as integrating AWS S3 for image storage and management.
 
-## 💼 Highlighted Projects
+## Highlighted Projects
 
 ### [Project Name 1](link-to-repository)
 - **Description**: Brief description of the project and your contributions.
@@ -26,11 +26,7 @@ As a fullstack developer, I work with a wide range of technologies and tools to 
 - **Technologies**: HTML, CSS, JavaScript
 - **Highlights**: Key features and impact of the project.
 
-## 📈 Open Source Contributions
-
-- **[Open Source Repository Name](link-to-repository)**: Description of your contributions to this open source project.
-
-## 🛠️ Technologies and Tools
+## Technologies and Tools
 
 - **Languages**: JavaScript, PHP, HTML, CSS
 - **Frameworks and Libraries**: React, React Native, Node.js, Express
@@ -41,7 +37,7 @@ As a fullstack developer, I work with a wide range of technologies and tools to 
 - **APIs**: Instagram API, Vimeo API, YouTube API, AWS S3
 - **Authentication**: OAuth (Facebook, Google)
 
-## 📫 Contact
+## Contact
 
 I am always open to new opportunities and collaborations. Feel free to [email me](mailto:contato@simplifyweb.com.br) or connect with me on social media.
 
