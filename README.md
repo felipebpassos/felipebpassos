@@ -28,14 +28,15 @@ As a fullstack developer, I work with a wide range of technologies and tools to 
 
 ## Technologies and Tools
 
-- **Languages**: JavaScript, PHP, HTML, CSS
-- **Frameworks and Libraries**: React, React Native, Node.js, Express
-- **Databases**: MySQL, MongoDB 
-- **DevOps and Infrastructure**: Docker, AWS (S3), CI/CD
-- **Frontend Frameworks**: Bootstrap, Tailwind CSS
-- **Version Control**: Git
-- **APIs**: Instagram API, Vimeo API, YouTube API, AWS S3
-- **Authentication**: OAuth (Facebook, Google)
+**Languages**: JavaScript, PHP, HTML, CSS  
+**Frameworks and Libraries**: React, React Native, Node.js, Express, Redux  
+**Databases**: MySQL, MongoDB, Redis  
+**DevOps and Infrastructure**: Docker, AWS (S3), CI/CD  
+**Frontend Frameworks**: Bootstrap, Tailwind CSS  
+**Version Control**: Git  
+**APIs**: Instagram API, Vimeo API, YouTube API, AWS S3  
+**Authentication**: OAuth (Facebook, Google)  
+**Real-Time Communication**: WebSockets
 
 ## Contact
 
