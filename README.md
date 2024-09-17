@@ -1,4 +1,4 @@
-<p style="font-size:28px;"><strong>Felipe Passos | Software Engineer 💻📱</strong></p>
+<p style="font-size:50px;"><strong>Felipe Passos | Software Engineer 💻📱</strong></p>
 
 <p style="font-size:20px;">Node.js | React | React Native | PHP</p>
 
