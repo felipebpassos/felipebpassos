@@ -1,4 +1,4 @@
-# **Felipe Passos | Software Engineer 💻📱**
+**Felipe Passos | Software Engineer 💻📱**
 Node.js | React | React Native | PHP
 
 As a fullstack developer, I work with a wide range of technologies and tools to build and optimize applications and systems. My experience includes:
@@ -9,7 +9,7 @@ As a fullstack developer, I work with a wide range of technologies and tools to 
 - **DevOps and Cloud Integration**: Implementing solutions with Docker and managing environments on AWS, including S3 for storage and integrating cloud services.
 - **API Integration**: Working with external APIs, such as the Instagram API, Vimeo, and YouTube, as well as integrating AWS S3 for image storage and management.
 
-## Highlighted Projects
+**Highlighted Projects**
 
 ### [S3Gallery](https://github.com/felipebpassos/S3Gallery) 📸🎥
 - **Description**: A secure and scalable media gallery that stores photos and videos in an AWS S3 bucket.
@@ -26,7 +26,7 @@ As a fullstack developer, I work with a wide range of technologies and tools to 
 - **Technologies**: HTML, CSS, JavaScript
 - **Highlights**: Key features and impact of the project.
 
-## Technologies and Tools
+**Technologies and Tools**
 
 **Languages**: JavaScript, PHP, HTML, CSS  
 **Frameworks and Libraries**: React, React Native, Node.js, Express, Redux  
@@ -38,7 +38,7 @@ As a fullstack developer, I work with a wide range of technologies and tools to 
 **Authentication**: OAuth (Facebook, Google)  
 **Real-Time Communication**: WebSockets
 
-## Contact
+**Contact**
 
 I am always open to new opportunities and collaborations. Feel free to [email me](mailto:contato@simplifyweb.com.br) or connect with me on social media.
 
