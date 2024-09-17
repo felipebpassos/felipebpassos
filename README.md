@@ -2,7 +2,7 @@
 
 Node.js | React | React Native | PHP
 
-As a fullstack developer, I work with a wide range of technologies and tools to build and optimize applications and systems. My experience includes: então use html para mudar o tamanho dos titulos
+As a fullstack developer, I work with a wide range of technologies and tools to build and optimize applications and systems. My experience includes: 
 
 - **Mobile Development**: Creating robust and responsive mobile apps using React Native.
 - **Frontend Web**: Building well-designed, responsive, and functional websites and landing pages with HTML, CSS, and JavaScript, as well as creating dynamic web applications using React.
