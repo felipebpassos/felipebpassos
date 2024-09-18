@@ -28,7 +28,7 @@ As a fullstack developer, I work with a wide range of technologies and tools to 
 - **Technologies**: HTML, CSS, JavaScript 
 - **Highlights**: Key features and impact of the project.
 
-### **Technologies and Tools**
+### **Technologies**
 
 - **Languages**: JavaScript, PHP, HTML, CSS 
 - **Frameworks and Libraries**: Node.js, Next.js, React, React Native, Redux 
