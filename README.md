@@ -5,7 +5,7 @@ Node.js | Next.js | React | React Native | PHP
 As a fullstack developer, I work with a wide range of technologies and tools to build and optimize applications and systems. My experience includes: 
 
 - **Mobile Development**: Creating robust and responsive mobile apps using React Native. 
-- **Frontend Web**: Building well-designed, responsive, and functional websites and landing pages with HTML, CSS, and JavaScript, as well as creating dynamic web applications using React and Next.js in cases where SEO needed.
+- **Frontend Web**: Building well-designed, responsive, and functional websites and landing pages with HTML, CSS, and JavaScript, as well as creating dynamic web applications using React and Next.js in cases where SEO is needed.
 - **Backend**: Design and development of RESTful APIs with Node.js Express, using both relational and non-relational databases. 
 - **DevOps and Cloud Integration**: Implementing solutions with Docker and managing environments on AWS, including S3 for storage and integrating cloud services. 
 - **API Integration**: Working with external APIs, such as the Instagram API, Vimeo, and YouTube, as well as integrating AWS S3 for image storage and management.
@@ -31,7 +31,7 @@ As a fullstack developer, I work with a wide range of technologies and tools to 
 ### **Technologies and Tools**
 
 - **Languages**: JavaScript, PHP, HTML, CSS 
-- **Frameworks and Libraries**: React, React Native, Node.js, Express, Redux 
+- **Frameworks and Libraries**: Node.js, Next.js, React, React Native, Redux 
 - **Databases**: MySQL, MongoDB, Redis 
 - **DevOps and Infrastructure**: Docker, AWS (S3), CI/CD 
 - **Frontend Frameworks**: Bootstrap, Tailwind CSS  
