@@ -15,12 +15,12 @@ As a fullstack developer, I work with a wide range of technologies and tools to 
 #### [S3Gallery](https://github.com/felipebpassos/S3Gallery) 📸🎥
 - **Description**: A secure and scalable media gallery that stores photos and videos in an AWS S3 bucket. 
 - **Backend Technologies**: Node.js, Express, JWT, MySQL, AWS S3 
-- **Frontend Technologies**: HTML, css, JS, Bootstrap, JQuery, AJAX 
+- **Frontend Technologies**: HTML, CSS, JS, Bootstrap, JQuery, AJAX 
 - **Highlights**: AWS S3 keeps storage simple, secure, and cost-effective. It scales with your project, so you only pay for what you use. Pre-signed URLs protect your files, making sure only the right people can access them. It’s a smart choice for handling media in any growing app.
 
 #### [Portfolio](link-to-repository)
 - **Description**: A modern, minimalistic portfolio with a smooth parallax experience and no scrollbar.
-- **Technologies**: HTML, CSS, JavaScript, PHP
+- **Technologies**: PHP, CSS, JavaScript
 - **Highlights**: Clean design, visually appealing with parallax effects, and an intuitive, minimalistic interface focusing on user experience.
 
 #### [Website and Blog](https://github.com/felipebpassos/Website-and-Blog)
