@@ -18,7 +18,7 @@ As a fullstack developer, I work with a wide range of technologies and tools to 
 - **Frontend Technologies**: HTML, CSS, JS, Bootstrap, JQuery, AJAX 
 - **Highlights**: AWS S3 keeps storage simple, secure, and cost-effective. It scales with your project, so you only pay for what you use. Pre-signed URLs protect your files, making sure only the right people can access them. It’s a smart choice for handling media in any growing app.
 
-#### [Portfolio]([link-to-repository](https://github.com/felipebpassos/My-Portfolio-Website)
+#### [Portfolio](https://github.com/felipebpassos/My-Portfolio-Website)
 - **Description**: A modern, minimalistic portfolio with a smooth parallax experience and no scrollbar.
 - **Technologies**: PHP, CSS, JavaScript
 - **Highlights**: Clean design, visually appealing with parallax effects, and an intuitive, minimalistic interface focusing on user experience.
