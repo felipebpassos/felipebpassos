@@ -10,7 +10,7 @@ As a fullstack developer, I work with a wide range of technologies and tools to 
 - **DevOps and Cloud Integration**: Implementing solutions with Docker and managing environments on AWS, including S3 for storage and integrating cloud services. 
 - **API Integration**: Working with external APIs, such as the Instagram Graph, Vimeo, YouTube, as well as integrating AWS S3 for cloud storage and management.
 
-### **Highlighted Projects**
+### **Highlighted Public Projects**
 
 #### [S3Gallery](https://github.com/felipebpassos/S3Gallery) 📸🎥
 - **Description**: A secure and scalable media gallery that stores photos and videos in an AWS S3 bucket. 
