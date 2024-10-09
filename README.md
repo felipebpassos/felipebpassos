@@ -1,6 +1,6 @@
 ## **Felipe Passos | Software Engineer 🌐📱**
 
-Node.js | Next.js | React | React Native | PHP
+Node.js | Next.js | React | React Native | PHP | AWS
 
 ### **Highlighted Public Projects**
 
