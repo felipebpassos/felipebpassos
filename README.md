@@ -9,7 +9,7 @@ I am always open to new opportunities and collaborations. Feel free to [email me
 
 **Website**: [simplifyweb.com.br](https://simplifyweb.com.br/)
 
-### **Highlighted Public Projects**
+### **Highlighted Projects**
 
 #### [S3Gallery](https://github.com/felipebpassos/S3Gallery) 📸🎥
 - **Description**: A secure and scalable media gallery that stores photos and videos in an AWS S3 bucket. 
