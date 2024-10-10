@@ -12,7 +12,7 @@ I am open to new opportunities and collaborations. Feel free to [email me](mailt
 ### **Highlighted Projects**
 
 #### [HealUp](https://github.com/felipebpassos/HealupPublic) 👨‍⚕️🩺📱
-- **Description**: A telemedicine marketplace for online appointments and scheduling, built with React Native and Node.js.
+- **Description**: A telemedicine marketplace mobile App for online appointments and scheduling, built with React Native and Node.js.
 - **Frontend Technologies**: React Native, Redux, Styled Components, OpenVidu (WebRTC), Firebase (Push Notifications)
 - **Backend Technologies**: Node.js, Express.js, MySQL, AWS S3, ASAS (Payment Integration), WebSockets, JWT, Redis, OpenVidu (WebRTC), Firebase (Push Notifications) 
 - **Highlights**: User-friendly mobile App experience that offers features like appointment management, video call consultations, secure payment integration, advanced search functionality.
