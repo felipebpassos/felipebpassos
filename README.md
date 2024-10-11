@@ -1,6 +1,6 @@
 ## **Felipe Passos | Software Engineer 🌐📱**
 
-Node.js | Next.js | React | React Native | PHP | AWS | Web Sockets | Redis Queues | Instagram Graph API
+Node.js | Next.js | React | React Native | PHP | AWS 
 
 I am open to new opportunities and collaborations. Feel free to [email me](mailto:contato@simplifyweb.com.br) or connect with me on social media.
 
