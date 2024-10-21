@@ -46,9 +46,9 @@ I am open to new opportunities and collaborations. Feel free to [email me](mailt
 - **Frameworks and Libraries**: Node.js, Next.js, React, React Native, Redux 
 - **Databases**: MySQL, MongoDB, Redis 
 - **DevOps and Infrastructure**: Docker, AWS (S3), CI/CD 
-- **Frontend Frameworks**: Bootstrap, Tailwind CSS  
+- **Frontend Frameworks**: Bootstrap, Tailwind 
 - **Version Control**: Git  
-- **APIs**: Instagram API, Vimeo API, YouTube API, AWS S3 
+- **APIs**: Instagram Graph API, Vimeo API, YouTube API
 - **Authentication**: OAuth (Facebook, Google) 
 - **Real-Time Communication**: WebSockets 
 
