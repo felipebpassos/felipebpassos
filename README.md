@@ -6,6 +6,8 @@ I am open to new opportunities and collaborations. Feel free to [email me](mailt
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Site-blue)](https://simplifyweb.com.br)
 
+---
+
 ### **Highlighted Projects**
 
 #### [HealUp](https://github.com/felipebpassos/HealupPublic) 👨‍⚕️🩺📱
