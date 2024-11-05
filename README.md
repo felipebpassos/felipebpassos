@@ -16,9 +16,9 @@ I am open to new opportunities and collaborations. Feel free to [email me](mailt
 #### [HealUp](https://github.com/felipebpassos/HealupPublic) 👨‍⚕️🩺📱
 
 <p align="center">
-    <img src="https://github.com/felipebpassos/UltimateMembersPublic/blob/main/aula.png?raw=true" alt="Image Example" width="250px">
-    <img src="https://github.com/felipebpassos/UltimateMembersPublic/blob/main/usuarios.png?raw=true" alt="Image Example" width="250px">
-    <img src="https://github.com/felipebpassos/UltimateMembersPublic/blob/main/usuarios.png?raw=true" alt="Image Example" width="250px">
+    <img src="https://github.com/felipebpassos/felipebpassos/blob/main/healup1.png?raw=true" alt="Image Example" width="250px">
+    <img src="https://github.com/felipebpassos/felipebpassos/blob/main/healup2.png?raw=true" alt="Image Example" width="250px">
+    <img src="https://github.com/felipebpassos/felipebpassos/blob/main/healup3.png?raw=true" alt="Image Example" width="250px">
 </p>
 
 - **Description**: A telemedicine marketplace mobile App for online appointments and scheduling, built with React Native and Node.js.
