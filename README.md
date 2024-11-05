@@ -41,6 +41,10 @@ I am open to new opportunities and collaborations. Feel free to [email me](mailt
     <img src="https://github.com/felipebpassos/felipebpassos/blob/main/healup3.png?raw=true" alt="Image Example" width="250px">
 </p>
 
+<p align="center" style="color: gray;">
+    <i>⚠️ Private project</i>
+</p>
+
 - **Description**: A telemedicine marketplace mobile App for online appointments and scheduling, built with React Native and Node.js.
 - **Frontend Technologies**: React Native, Redux, Styled Components, WebRTC, Firebase (Push Notifications)
 - **Backend Technologies**: Node.js, Express.js, MySQL, AWS S3, ASAS (Payment Integration), WebSockets, JWT, Redis, WebRTC, Firebase (Push Notifications) 
@@ -56,6 +60,10 @@ I am open to new opportunities and collaborations. Feel free to [email me](mailt
     <img src="https://github.com/felipebpassos/UltimateMembersPublic/raw/main/main.png?raw=true" alt="Image Example" width="250px">
     <img src="https://github.com/felipebpassos/UltimateMembersPublic/blob/main/aula.png?raw=true" alt="Image Example" width="250px">
     <img src="https://github.com/felipebpassos/UltimateMembersPublic/blob/main/usuarios.png?raw=true" alt="Image Example" width="250px">
+</p>
+
+<p align="center" style="color: gray;">
+    <i>⚠️ Private project</i>
 </p>
 
 - **Description**: A secure and customized PHP-based members area for the "Reels de Cinema" course. 
