@@ -27,6 +27,12 @@ I am open to new opportunities and collaborations. Feel free to [email me](mailt
 - **Highlights**: User-friendly mobile App experience that offers features like appointment management, video call consultations, secure payment integration, advanced search functionality.
 
 #### [Ultimate Members](https://github.com/felipebpassos/UltimateMembersPublic) ▶️
+
+<p align="center">
+    <img src="https://github.com/felipebpassos/UltimateMembersPublic/blob/main/aula.png?raw=true" alt="Image Example" width="400px">
+    <img src="https://github.com/felipebpassos/UltimateMembersPublic/blob/main/usuarios.png?raw=true" alt="Image Example" width="400px">
+</p>
+
 - **Description**: A secure and customized PHP-based members area for the "Reels de Cinema" course. 
 - **Technologies**: PHP, MVC Architecture, MySQL, Vimeo API, YouTube API, Kiwify Webhooks, HTML/CSS, JavaScript, Bootstrap, JWT, PHP Sessions
 - **Highlights**: Integrates with Kiwify for automatic student updates, supports secure login and access control, and allows video embedding via Vimeo and YouTube APIs for a complete online learning experience.
