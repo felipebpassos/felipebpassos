@@ -12,6 +12,8 @@ I am open to new opportunities and collaborations. Feel free to [email me](mailt
 
 ### **Highlighted Projects**
 
+<br>
+
 <p align="center">
  <a href="https://github.com/felipebpassos/My-Portfolio-Website">My Portfolio Website</a>
 </p>
