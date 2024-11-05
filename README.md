@@ -29,7 +29,7 @@ I am open to new opportunities and collaborations. Feel free to [email me](mailt
 #### [Ultimate Members](https://github.com/felipebpassos/UltimateMembersPublic) ▶️
 
 <p align="center">
-    <img src="https://github.com/felipebpassos/UltimateMembersPublic/raw/main/main_presentation.png?raw=true" alt="Image Example" width="250px">
+    <img src="https://github.com/felipebpassos/UltimateMembersPublic/raw/main/main.png?raw=true" alt="Image Example" width="250px">
     <img src="https://github.com/felipebpassos/UltimateMembersPublic/blob/main/aula.png?raw=true" alt="Image Example" width="250px">
     <img src="https://github.com/felipebpassos/UltimateMembersPublic/blob/main/usuarios.png?raw=true" alt="Image Example" width="250px">
 </p>
