@@ -92,7 +92,7 @@ I am open to new opportunities and collaborations. Feel free to [email me](mailt
 - **Backend Technologies**: Node.js, Express, sockets.io 
 - **Frontend Technologies**: HTML, CSS, JS, Tailwind, sockets.io-client 
 - **Highlights**: Real-time messaging via WebSockets, support for multiple chat rooms, modern and responsive interface, with security ensured through message sanitization.
-- **Live link**: [simple-websockets-chat-app-a1z6.onrender.com/](https://simple-websockets-chat-app-a1z6.onrender.com/)
+- **Live link**: [simple-websockets-chat-app-a1z6.onrender.com](https://simple-websockets-chat-app-a1z6.onrender.com/)
 
 <br>
 
