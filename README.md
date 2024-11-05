@@ -46,6 +46,23 @@ I am open to new opportunities and collaborations. Feel free to [email me](mailt
 <br>
 
 <p align="center">
+ <a href="https://github.com/felipebpassos/My-Portfolio-Website">Pesquisa Viral (Viral Search)</a>
+</p>
+
+<p align="center">
+    <img src="https://github.com/felipebpassos/felipebpassos/blob/main/sw1.png?raw=true" alt="Image Example" width="250px">
+    <img src="https://github.com/felipebpassos/felipebpassos/blob/main/sw2.png?raw=true" alt="Image Example" width="250px">
+    <img src="https://github.com/felipebpassos/felipebpassos/blob/main/sw3.png?raw=true" alt="Image Example" width="250px">
+</p>
+
+- **Description**: .
+- **Technologies**: PHP, JavaScript, JQuery, Redis, Bootstrap, Mongodb, HTML, CSS, 
+- **Highlights**: 
+- **Live link**: [pesquisaviral.com](https://pesquisaviral.com)
+
+<br>
+
+<p align="center">
  <a href="https://github.com/felipebpassos/My-Portfolio-Website">My Portfolio Website</a>
 </p>
 
@@ -58,14 +75,16 @@ I am open to new opportunities and collaborations. Feel free to [email me](mailt
 - **Description**: A modern, minimalistic portfolio with a smooth parallax experience and no scrollbar.
 - **Technologies**: PHP, HTML, CSS, JavaScript
 - **Highlights**: Clean design, visually appealing with parallax effects, and an intuitive, minimalistic interface focusing on user experience.
-- **Live link**: [https://simplifyweb.com.br](https://simplifyweb.com.br)
+- **Live link**: [simplifyweb.com.br](https://simplifyweb.com.br)
+
+
 
 #### [Chat Room](https://github.com/felipebpassos/simple-websockets-chat-app) 💬
 - **Description**:  A simple and efficient chat application using WebSockets, enabling real-time communication across different rooms. Users can create/join a room with a personalized nickname and exchange instant messages with other room participants.
 - **Backend Technologies**: Node.js, Express, sockets.io 
 - **Frontend Technologies**: HTML, CSS, JS, Tailwind, sockets.io-client 
 - **Highlights**: Real-time messaging via WebSockets, support for multiple chat rooms, modern and responsive interface, with security ensured through message sanitization.
-- **Live link**: [https://simple-websockets-chat-app-a1z6.onrender.com/](https://simple-websockets-chat-app-a1z6.onrender.com/)
+- **Live link**: [simple-websockets-chat-app-a1z6.onrender.com/](https://simple-websockets-chat-app-a1z6.onrender.com/)
 
 #### [S3Gallery](https://github.com/felipebpassos/S3Gallery) 📸🎥
 - **Description**: A secure and scalable media gallery that stores photos and videos in an AWS S3 bucket. 
