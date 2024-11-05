@@ -84,8 +84,8 @@ I am open to new opportunities and collaborations. Feel free to [email me](mailt
 </p>
 
 <p align="center">
-    <img src="https://github.com/felipebpassos/simple-websockets-chat-app/blob/master/screenshot01.png?raw=true" alt="Image Example" width="300px">
-    <img src="https://github.com/felipebpassos/simple-websockets-chat-app/blob/master/screenshot02.png?raw=true" alt="Image Example" width="300px">
+    <img src="https://github.com/felipebpassos/simple-websockets-chat-app/blob/master/screenshot01.png?raw=true" alt="Image Example" width="250px">
+    <img src="https://github.com/felipebpassos/simple-websockets-chat-app/blob/master/screenshot02.png?raw=true" alt="Image Example" width="250px">
 </p>
 
 - **Description**:  A simple and efficient chat application using WebSockets, enabling real-time communication across different rooms. Users can create/join a room with a personalized nickname and exchange instant messages with other room participants.
