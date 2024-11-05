@@ -46,7 +46,7 @@ I am open to new opportunities and collaborations. Feel free to [email me](mailt
 <br>
 
 <p align="center">
- <a href="https://github.com/felipebpassos/My-Portfolio-Website">Pesquisa Viral (Viral Search)</a>
+ <a href="https://github.com/felipebpassos/My-Portfolio-Website">Pesquisa Viral (Viral Search) 🌟</a>
 </p>
 
 <p align="center">
