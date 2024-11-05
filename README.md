@@ -115,10 +115,17 @@ I am open to new opportunities and collaborations. Feel free to [email me](mailt
 <br>
 
 #### [Recz Films](https://github.com/felipebpassos/recz)
+
+<p align="center">
+    <img src="https://github.com/felipebpassos/felipebpassos/blob/main/recz1.png?raw=true" alt="Image Example" width="250px">
+    <img src="https://github.com/felipebpassos/felipebpassos/blob/main/recz2.png?raw=true" alt="Image Example" width="250px">
+    <img src="https://github.com/felipebpassos/felipebpassos/blob/main/recz3.png?raw=true" alt="Image Example" width="250px">
+</p>
+
 - **Description**: A modern High standard landing page da produtora Recz Films.
 - **Technologies**: PHP, HTML, CSS, Bootstrap, JavaScript
 - **Highlights**: Clean design, visually appealing interface focusing on user experience, SEO and storytelling.
-- **Live link**: [https://reczfilms.com](https://reczfilms.com)
+- **Live link**: [reczfilms.com](https://reczfilms.com)
 
 <br>
 
