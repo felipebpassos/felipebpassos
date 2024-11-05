@@ -13,7 +13,7 @@ I am open to new opportunities and collaborations. Feel free to [email me](mailt
 ### **Highlighted Projects**
 
 <p align="center" style="font-weight: bold;>
- <a href="https://github.com/felipebpassos/HealupPublic" style="text-decoration: none;">HealUp 👨‍⚕️🩺📱</a>
+ <a href="https://github.com/felipebpassos/HealupPublic">HealUp 👨‍⚕️🩺📱</a>
 </p>
 
 #### [HealUp](https://github.com/felipebpassos/HealupPublic) 👨‍⚕️🩺📱
