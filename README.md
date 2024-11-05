@@ -13,6 +13,23 @@ I am open to new opportunities and collaborations. Feel free to [email me](mailt
 ### **Highlighted Projects**
 
 <p align="center">
+ <a href="https://github.com/felipebpassos/My-Portfolio-Website">My Portfolio Website</a>
+</p>
+
+<p align="center">
+    <img src="https://github.com/felipebpassos/felipebpassos/blob/main/sw1.png?raw=true" alt="Image Example" width="250px">
+    <img src="https://github.com/felipebpassos/felipebpassos/blob/main/sw2.png?raw=true" alt="Image Example" width="250px">
+    <img src="https://github.com/felipebpassos/felipebpassos/blob/main/sw3.png?raw=true" alt="Image Example" width="250px">
+</p>
+
+- **Description**: A modern, minimalistic portfolio with a smooth parallax experience and no scrollbar.
+- **Technologies**: PHP, HTML, CSS, JavaScript
+- **Highlights**: Clean design, visually appealing with parallax effects, focusing on user experience.
+- **Live link**: [simplifyweb.com.br](https://simplifyweb.com.br)
+
+<br>
+
+<p align="center">
  <a href="https://github.com/felipebpassos/HealupPublic">HealUp 👨‍⚕️🩺📱</a>
 </p>
 
@@ -59,23 +76,6 @@ I am open to new opportunities and collaborations. Feel free to [email me](mailt
 - **Technologies**: PHP, JavaScript, JQuery, Redis, Bootstrap, Mongodb, HTML, CSS, 
 - **Highlights**: 
 - **Live link**: [pesquisaviral.com](https://pesquisaviral.com)
-
-<br>
-
-<p align="center">
- <a href="https://github.com/felipebpassos/My-Portfolio-Website">My Portfolio Website</a>
-</p>
-
-<p align="center">
-    <img src="https://github.com/felipebpassos/felipebpassos/blob/main/sw1.png?raw=true" alt="Image Example" width="250px">
-    <img src="https://github.com/felipebpassos/felipebpassos/blob/main/sw2.png?raw=true" alt="Image Example" width="250px">
-    <img src="https://github.com/felipebpassos/felipebpassos/blob/main/sw3.png?raw=true" alt="Image Example" width="250px">
-</p>
-
-- **Description**: A modern, minimalistic portfolio with a smooth parallax experience and no scrollbar.
-- **Technologies**: PHP, HTML, CSS, JavaScript
-- **Highlights**: Clean design, visually appealing with parallax effects, focusing on user experience.
-- **Live link**: [simplifyweb.com.br](https://simplifyweb.com.br)
 
 <br>
 
