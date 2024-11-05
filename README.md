@@ -74,7 +74,7 @@ I am open to new opportunities and collaborations. Feel free to [email me](mailt
 
 - **Description**: A modern, minimalistic portfolio with a smooth parallax experience and no scrollbar.
 - **Technologies**: PHP, HTML, CSS, JavaScript
-- **Highlights**: Clean design, visually appealing with parallax effects, and an intuitive, minimalistic interface focusing on user experience.
+- **Highlights**: Clean design, visually appealing with parallax effects, focusing on user experience.
 - **Live link**: [simplifyweb.com.br](https://simplifyweb.com.br)
 
 
