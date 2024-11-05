@@ -4,12 +4,14 @@ Node.js | Next.js | React | React Native | PHP | AWS
 
 I am open to new opportunities and collaborations. Feel free to [email me](mailto:contato@simplifyweb.com.br) or connect with me on social media.
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Site-blue)](https://simplifyweb.com.br)
+
+<br>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-passos-70a075138/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/simplifyweb/)
 
 <br>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Site-blue)](https://simplifyweb.com.br)
 
 ### **Highlighted Projects**
 
@@ -26,6 +28,8 @@ I am open to new opportunities and collaborations. Feel free to [email me](mailt
 - **Backend Technologies**: Node.js, Express.js, MySQL, AWS S3, ASAS (Payment Integration), WebSockets, JWT, Redis, WebRTC, Firebase (Push Notifications) 
 - **Highlights**: User-friendly mobile App experience that offers features like appointment management, video call consultations, secure payment integration, advanced search functionality.
 
+<br>
+
 #### [Ultimate Members](https://github.com/felipebpassos/UltimateMembersPublic) ▶️
 
 <p align="center">
@@ -37,6 +41,8 @@ I am open to new opportunities and collaborations. Feel free to [email me](mailt
 - **Description**: A secure and customized PHP-based members area for the "Reels de Cinema" course. 
 - **Technologies**: PHP, MVC Architecture, MySQL, Vimeo API, YouTube API, Kiwify Webhooks, HTML/CSS, JavaScript, Bootstrap, JWT, PHP Sessions
 - **Highlights**: Integrates with Kiwify for automatic student updates, supports secure login and access control, and allows video embedding via Vimeo and YouTube APIs for a complete online learning experience.
+
+<br>
 
 #### [My Portfolio Website](https://github.com/felipebpassos/My-Portfolio-Website)
 - **Description**: A modern, minimalistic portfolio with a smooth parallax experience and no scrollbar.
