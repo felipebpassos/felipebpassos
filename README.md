@@ -29,8 +29,9 @@ I am open to new opportunities and collaborations. Feel free to [email me](mailt
 #### [Ultimate Members](https://github.com/felipebpassos/UltimateMembersPublic) ▶️
 
 <p align="center">
-    <img src="https://github.com/felipebpassos/UltimateMembersPublic/blob/main/aula.png?raw=true" alt="Image Example" width="400px">
-    <img src="https://github.com/felipebpassos/UltimateMembersPublic/blob/main/usuarios.png?raw=true" alt="Image Example" width="400px">
+    <img src="https://github.com/felipebpassos/UltimateMembersPublic/blob/main/aula.png?raw=true" alt="Image Example" width="250px">
+    <img src="https://github.com/felipebpassos/UltimateMembersPublic/blob/main/usuarios.png?raw=true" alt="Image Example" width="250px">
+    <img src="https://github.com/felipebpassos/UltimateMembersPublic/blob/main/usuarios.png?raw=true" alt="Image Example" width="250px">
 </p>
 
 - **Description**: A secure and customized PHP-based members area for the "Reels de Cinema" course. 
