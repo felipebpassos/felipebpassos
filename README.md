@@ -50,9 +50,9 @@ I am open to new opportunities and collaborations. Feel free to [email me](mailt
 </p>
 
 <p align="center">
-    <img src="https://github.com/felipebpassos/felipebpassos/blob/main/sw1.png?raw=true" alt="Image Example" width="250px">
-    <img src="https://github.com/felipebpassos/felipebpassos/blob/main/sw2.png?raw=true" alt="Image Example" width="250px">
-    <img src="https://github.com/felipebpassos/felipebpassos/blob/main/sw3.png?raw=true" alt="Image Example" width="250px">
+    <img src="https://github.com/felipebpassos/ViralSearch/blob/main/pv3.png?raw=true" alt="Image Example" width="250px">
+    <img src="https://github.com/felipebpassos/ViralSearch/blob/main/pv1.png?raw=true" alt="Image Example" width="250px">
+    <img src="https://github.com/felipebpassos/ViralSearch/blob/main/pv2.png?raw=true" alt="Image Example" width="250px">
 </p>
 
 - **Description**: .
