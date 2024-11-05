@@ -4,7 +4,7 @@ Node.js | Next.js | React | React Native | PHP | AWS
 
 I am open to new opportunities and collaborations. Feel free to [email me](mailto:contato@simplifyweb.com.br) or connect with me on social media.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Site-blue)](https://simplifyweb.com.br)
+[![Portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://simplifyweb.com.br)
 
 ---
 
