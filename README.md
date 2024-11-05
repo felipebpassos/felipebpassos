@@ -77,14 +77,24 @@ I am open to new opportunities and collaborations. Feel free to [email me](mailt
 - **Highlights**: Clean design, visually appealing with parallax effects, focusing on user experience.
 - **Live link**: [simplifyweb.com.br](https://simplifyweb.com.br)
 
+<br>
 
+<p align="center">
+ <a href="https://github.com/felipebpassos/simple-websockets-chat-app">Chat Room 💬</a>
+</p>
 
-#### [Chat Room](https://github.com/felipebpassos/simple-websockets-chat-app) 💬
+<p align="center">
+    <img src="https://github.com/felipebpassos/simple-websockets-chat-app/blob/master/screenshot01.png?raw=true" alt="Image Example" width="400px">
+    <img src="https://github.com/felipebpassos/simple-websockets-chat-app/blob/master/screenshot02.png?raw=true" alt="Image Example" width="400px">
+</p>
+
 - **Description**:  A simple and efficient chat application using WebSockets, enabling real-time communication across different rooms. Users can create/join a room with a personalized nickname and exchange instant messages with other room participants.
 - **Backend Technologies**: Node.js, Express, sockets.io 
 - **Frontend Technologies**: HTML, CSS, JS, Tailwind, sockets.io-client 
 - **Highlights**: Real-time messaging via WebSockets, support for multiple chat rooms, modern and responsive interface, with security ensured through message sanitization.
 - **Live link**: [simple-websockets-chat-app-a1z6.onrender.com/](https://simple-websockets-chat-app-a1z6.onrender.com/)
+
+<br>
 
 #### [S3Gallery](https://github.com/felipebpassos/S3Gallery) 📸🎥
 - **Description**: A secure and scalable media gallery that stores photos and videos in an AWS S3 bucket. 
