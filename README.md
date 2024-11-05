@@ -16,8 +16,6 @@ I am open to new opportunities and collaborations. Feel free to [email me](mailt
  <a href="https://github.com/felipebpassos/HealupPublic">HealUp 👨‍⚕️🩺📱</a>
 </p>
 
-#### [HealUp](https://github.com/felipebpassos/HealupPublic) 👨‍⚕️🩺📱
-
 <p align="center">
     <img src="https://github.com/felipebpassos/felipebpassos/blob/main/healup1.png?raw=true" alt="Image Example" width="250px">
     <img src="https://github.com/felipebpassos/felipebpassos/blob/main/healup2.png?raw=true" alt="Image Example" width="250px">
@@ -31,7 +29,9 @@ I am open to new opportunities and collaborations. Feel free to [email me](mailt
 
 <br>
 
-#### [Ultimate Members](https://github.com/felipebpassos/UltimateMembersPublic) ▶️
+<p align="center">
+ <a href="https://github.com/felipebpassos/UltimateMembersPublic">Ultimate Members ▶️</a>
+</p>
 
 <p align="center">
     <img src="https://github.com/felipebpassos/UltimateMembersPublic/raw/main/main.png?raw=true" alt="Image Example" width="250px">
@@ -45,7 +45,10 @@ I am open to new opportunities and collaborations. Feel free to [email me](mailt
 
 <br>
 
-#### [My Portfolio Website](https://github.com/felipebpassos/My-Portfolio-Website)
+<p align="center">
+ <a href="https://github.com/felipebpassos/My-Portfolio-Website">My Portfolio Website</a>
+</p>
+
 - **Description**: A modern, minimalistic portfolio with a smooth parallax experience and no scrollbar.
 - **Technologies**: PHP, HTML, CSS, JavaScript
 - **Highlights**: Clean design, visually appealing with parallax effects, and an intuitive, minimalistic interface focusing on user experience.
