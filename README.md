@@ -102,11 +102,17 @@ I am open to new opportunities and collaborations. Feel free to [email me](mailt
 - **Frontend Technologies**: HTML, CSS, JS, Bootstrap, JQuery, AJAX 
 - **Highlights**: AWS S3 keeps storage simple, secure, and cost-effective. It scales with your project, so you only pay for what you use. Pre-signed URLs protect your files, making sure only the right people can access them. It’s a smart choice for handling media in any growing app.
 
+<br>
+
 #### [Recz Films](https://github.com/felipebpassos/recz)
 - **Description**: A modern High standard landing page da produtora Recz Films.
 - **Technologies**: PHP, HTML, CSS, Bootstrap, JavaScript
 - **Highlights**: Clean design, visually appealing interface focusing on user experience, SEO and storytelling.
 - **Live link**: [https://reczfilms.com](https://reczfilms.com)
+
+<br>
+
+---
 
 ### **Technologies**
 
