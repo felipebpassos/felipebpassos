@@ -90,7 +90,7 @@ I am open to new opportunities and collaborations. Feel free to [email me](mailt
 <br>
 
 <p align="center">
- <a href="https://github.com/felipebpassos/simple-websockets-chat-app">Chat Room 💬</a>
+ <a href="https://github.com/felipebpassos/simple-websockets-chat-app">Chat Room</a>
 </p>
 
 <p align="center">
