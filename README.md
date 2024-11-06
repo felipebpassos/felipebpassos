@@ -5,8 +5,8 @@ Node.js | Next.js | React | React Native | PHP | AWS
 I am open to new opportunities and collaborations. Feel free to [email me](mailto:contato@simplifyweb.com.br) or connect with me on social media.
 
 [![Portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.Portfolio&logoColor=white)](https://simplifyweb.com.br)
-[![CV](https://img.shields.io/badge/Read.cv-111111.svg?style=for-the-badge&logo=readdotcv&logoColor=white)](https://simplifyweb.com.br/cv)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-passos-70a075138/)
+[![CV](https://img.shields.io/badge/Read.cv-111111.svg?style=for-the-badge&logo=readdotcv&logoColor=white)](https://simplifyweb.com.br/cv)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.linkedin.com/in/felipe-passos-70a075138/)
 
 ---
