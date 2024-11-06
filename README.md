@@ -34,9 +34,9 @@ I am open to new opportunities and collaborations. Feel free to [email me](mailt
 
 <br>
 
-<p align="center">
+<h3 align="center">
  <a href="https://github.com/felipebpassos/HealupPublic">HealUp</a>
-</p>
+</h3>
 
 <p align="center">
     <img src="https://github.com/felipebpassos/felipebpassos/blob/main/healup1.png?raw=true" alt="Image Example" width="250px">
@@ -55,9 +55,9 @@ I am open to new opportunities and collaborations. Feel free to [email me](mailt
 
 <br>
 
-<p align="center">
+<h3 align="center">
  <a href="https://github.com/felipebpassos/UltimateMembersPublic">Ultimate Members</a>
-</p>
+</h3>
 
 <p align="center">
     <img src="https://github.com/felipebpassos/UltimateMembersPublic/raw/main/main.png?raw=true" alt="Image Example" width="250px">
@@ -75,9 +75,9 @@ I am open to new opportunities and collaborations. Feel free to [email me](mailt
 
 <br>
 
-<p align="center">
+<h3 align="center">
  <a href="https://github.com/felipebpassos/My-Portfolio-Website">Pesquisa Viral (Viral Search)</a>
-</p>
+</h3>
 
 <p align="center">
     <img src="https://github.com/felipebpassos/ViralSearch/blob/main/pv3.png?raw=true" alt="Image Example" width="250px">
@@ -95,9 +95,9 @@ I am open to new opportunities and collaborations. Feel free to [email me](mailt
 
 <br>
 
-<p align="center">
+<h3 align="center">
  <a href="https://github.com/felipebpassos/simple-websockets-chat-app">Chat Room</a>
-</p>
+</h3>
 
 <p align="center">
     <img src="https://github.com/felipebpassos/simple-websockets-chat-app/blob/master/screenshot01.png?raw=true" alt="Image Example" width="250px">
@@ -115,9 +115,9 @@ I am open to new opportunities and collaborations. Feel free to [email me](mailt
 
 <br>
 
-<p align="center">
+<h3 align="center">
  <a href="https://github.com/felipebpassos/S3Gallery">S3Gallery</a>
-</p>
+</h3>
 
 - **Description**: A secure and scalable media gallery that stores photos and videos in an AWS S3 bucket. 
 - **Backend Technologies**: Node.js, Express, JWT, MySQL, AWS S3 
@@ -126,9 +126,9 @@ I am open to new opportunities and collaborations. Feel free to [email me](mailt
 
 <br>
 
-<p align="center">
+<h3 align="center">
  <a href="https://github.com/felipebpassos/recz">Recz Films</a>
-</p>
+</h3>
 
 <p align="center">
     <img src="https://github.com/felipebpassos/felipebpassos/blob/main/recz1.png?raw=true" alt="Image Example" width="250px">
