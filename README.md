@@ -25,7 +25,7 @@ I am open to new opportunities and collaborations. Feel free to [email me](mailt
 </p>
 
 <p align="center" style="color: gray;">
-    <i>👉 Test here <a href="https://simplifyweb.com.br">simplifyweb.com.br</a></i>
+    <i>👉 Test <a href="https://simplifyweb.com.br">here</a></i>
 </p>
 
 - **Description**: A modern, minimalistic portfolio with a smooth parallax experience and no scrollbar.
@@ -86,7 +86,7 @@ I am open to new opportunities and collaborations. Feel free to [email me](mailt
 </p>
 
 <p align="center" style="color: gray;">
-    <i>👉 Test here <a href="https://pesquisaviral.com">pesquisaviral.com</a></i>
+    <i>👉 Test <a href="https://pesquisaviral.com">here</a></i>
 </p>
 
 - **Description**: .
@@ -105,7 +105,7 @@ I am open to new opportunities and collaborations. Feel free to [email me](mailt
 </p>
 
 <p align="center" style="color: gray;">
-    <i>👉 Test here <a href="https://simple-websockets-chat-app-a1z6.onrender.com">simple-websockets-chat-app-a1z6.onrender.com</a></i>
+    <i>👉 Test <a href="https://simple-websockets-chat-app-a1z6.onrender.com">here</a></i>
 </p>
 
 - **Description**:  A simple and efficient chat application using WebSockets, enabling real-time communication across different rooms. Users can create/join a room with a personalized nickname and exchange instant messages with other room participants.
@@ -137,7 +137,7 @@ I am open to new opportunities and collaborations. Feel free to [email me](mailt
 </p>
 
 <p align="center" style="color: gray;">
-    <i>👉 Test here <a href="https://reczfilms.com">reczfilms.com</a></i>
+    <i>👉 Test <a href="https://reczfilms.com">here</a></i>
 </p>
 
 - **Description**: A modern High standard landing page da produtora Recz Films.
