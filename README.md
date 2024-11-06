@@ -14,9 +14,9 @@ I am open to new opportunities and collaborations. Feel free to [email me](mailt
 
 <br>
 
-<p align="center">
+<h4 align="center">
  <a href="https://github.com/felipebpassos/My-Portfolio-Website">My Portfolio Website</a>
-</p>
+</h4>
 
 <p align="center">
     <img src="https://github.com/felipebpassos/felipebpassos/blob/main/sw1.png?raw=true" alt="Image Example" width="250px">
