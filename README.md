@@ -32,7 +32,7 @@ I am open to new opportunities and collaborations. Feel free to [email me](mailt
 <br>
 
 <p align="center">
- <a href="https://github.com/felipebpassos/HealupPublic">HealUp 👨‍⚕️🩺📱</a>
+ <a href="https://github.com/felipebpassos/HealupPublic">HealUp</a>
 </p>
 
 <p align="center">
@@ -53,7 +53,7 @@ I am open to new opportunities and collaborations. Feel free to [email me](mailt
 <br>
 
 <p align="center">
- <a href="https://github.com/felipebpassos/UltimateMembersPublic">Ultimate Members ▶️</a>
+ <a href="https://github.com/felipebpassos/UltimateMembersPublic">Ultimate Members</a>
 </p>
 
 <p align="center">
@@ -73,7 +73,7 @@ I am open to new opportunities and collaborations. Feel free to [email me](mailt
 <br>
 
 <p align="center">
- <a href="https://github.com/felipebpassos/My-Portfolio-Website">Pesquisa Viral (Viral Search) 🌟</a>
+ <a href="https://github.com/felipebpassos/My-Portfolio-Website">Pesquisa Viral (Viral Search)</a>
 </p>
 
 <p align="center">
@@ -106,7 +106,7 @@ I am open to new opportunities and collaborations. Feel free to [email me](mailt
 
 <br>
 
-#### [S3Gallery](https://github.com/felipebpassos/S3Gallery) 📸🎥
+#### [S3Gallery](https://github.com/felipebpassos/S3Gallery) 
 - **Description**: A secure and scalable media gallery that stores photos and videos in an AWS S3 bucket. 
 - **Backend Technologies**: Node.js, Express, JWT, MySQL, AWS S3 
 - **Frontend Technologies**: HTML, CSS, JS, Bootstrap, JQuery, AJAX 
