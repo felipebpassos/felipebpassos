@@ -25,13 +25,12 @@ I am open to new opportunities and collaborations. Feel free to [email me](mailt
 </p>
 
 <p align="center" style="color: gray;">
-    <i>⚠️ Test here <a href="https://simplifyweb.com.br">simplifyweb.com.br</a></i>
+    <i>👉 Test here <a href="https://simplifyweb.com.br">simplifyweb.com.br</a></i>
 </p>
 
 - **Description**: A modern, minimalistic portfolio with a smooth parallax experience and no scrollbar.
 - **Technologies**: PHP, HTML, CSS, JavaScript
 - **Highlights**: Clean design, visually appealing with parallax effects, focusing on user experience.
-- **Live link**: [simplifyweb.com.br](https://simplifyweb.com.br)
 
 <br>
 
@@ -86,10 +85,13 @@ I am open to new opportunities and collaborations. Feel free to [email me](mailt
     <img src="https://github.com/felipebpassos/ViralSearch/blob/main/pv2.png?raw=true" alt="Image Example" width="250px">
 </p>
 
+<p align="center" style="color: gray;">
+    <i>👉 Test here <a href="https://pesquisaviral.com">pesquisaviral.com</a></i>
+</p>
+
 - **Description**: .
 - **Technologies**: PHP, JavaScript, JQuery, Redis, Bootstrap, Mongodb, HTML, CSS, 
 - **Highlights**: 
-- **Live link**: [pesquisaviral.com](https://pesquisaviral.com)
 
 <br>
 
@@ -102,15 +104,21 @@ I am open to new opportunities and collaborations. Feel free to [email me](mailt
     <img src="https://github.com/felipebpassos/simple-websockets-chat-app/blob/master/screenshot02.png?raw=true" alt="Image Example" width="250px">
 </p>
 
+<p align="center" style="color: gray;">
+    <i>👉 Test here <a href="https://simple-websockets-chat-app-a1z6.onrender.com">simple-websockets-chat-app-a1z6.onrender.com</a></i>
+</p>
+
 - **Description**:  A simple and efficient chat application using WebSockets, enabling real-time communication across different rooms. Users can create/join a room with a personalized nickname and exchange instant messages with other room participants.
 - **Backend Technologies**: Node.js, Express, sockets.io 
 - **Frontend Technologies**: HTML, CSS, JS, Tailwind, sockets.io-client 
 - **Highlights**: Real-time messaging via WebSockets, support for multiple chat rooms, modern and responsive interface, with security ensured through message sanitization.
-- **Live link**: [simple-websockets-chat-app-a1z6.onrender.com](https://simple-websockets-chat-app-a1z6.onrender.com/)
 
 <br>
 
-#### [S3Gallery](https://github.com/felipebpassos/S3Gallery) 
+<p align="center">
+ <a href="https://github.com/felipebpassos/S3Gallery">S3Gallery</a>
+</p>
+
 - **Description**: A secure and scalable media gallery that stores photos and videos in an AWS S3 bucket. 
 - **Backend Technologies**: Node.js, Express, JWT, MySQL, AWS S3 
 - **Frontend Technologies**: HTML, CSS, JS, Bootstrap, JQuery, AJAX 
@@ -118,7 +126,9 @@ I am open to new opportunities and collaborations. Feel free to [email me](mailt
 
 <br>
 
-#### [Recz Films](https://github.com/felipebpassos/recz)
+<p align="center">
+ <a href="https://github.com/felipebpassos/recz">Recz Films</a>
+</p>
 
 <p align="center">
     <img src="https://github.com/felipebpassos/felipebpassos/blob/main/recz1.png?raw=true" alt="Image Example" width="250px">
@@ -126,10 +136,13 @@ I am open to new opportunities and collaborations. Feel free to [email me](mailt
     <img src="https://github.com/felipebpassos/felipebpassos/blob/main/recz3.png?raw=true" alt="Image Example" width="250px">
 </p>
 
+<p align="center" style="color: gray;">
+    <i>👉 Test here <a href="https://reczfilms.com">reczfilms.com</a></i>
+</p>
+
 - **Description**: A modern High standard landing page da produtora Recz Films.
 - **Technologies**: PHP, HTML, CSS, Bootstrap, JavaScript
 - **Highlights**: Clean design, visually appealing interface focusing on user experience, SEO and storytelling.
-- **Live link**: [reczfilms.com](https://reczfilms.com)
 
 <br>
 
