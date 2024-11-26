@@ -172,9 +172,8 @@ I am open to new opportunities and collaborations. Feel free to [email me](mailt
 ### **Technologies**
 
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-
-**Languages**: JavaScript, PHP, HTML, CSS <br>
 **Frameworks and Libraries**: Node.js, Next.js, React, React Native, Redux <br>
 **styles Frameworks**: Bootstrap, Tailwind <br>
 **Databases**: MySQL, MongoDB, Redis <br>
