@@ -153,13 +153,13 @@ I am open to new opportunities and collaborations. Feel free to [email me](mailt
 
 **Languages**: JavaScript, PHP, HTML, CSS <br>
 **Frameworks and Libraries**: Node.js, Next.js, React, React Native, Redux <br>
+**styles Frameworks**: Bootstrap, Tailwind <br>
 **Databases**: MySQL, MongoDB, Redis <br>
-**DevOps and Infrastructure**: Docker, AWS (S3), CI/CD <br>
-**Frontend Frameworks**: Bootstrap, Tailwind <br>
 **Version Control**: Git  <br>
+**DevOps and Infrastructure**: Docker, AWS (S3), CI/CD <br>
 **APIs**: Instagram Graph API, Vimeo API, YouTube API <br>
 **Authentication**: OAuth (Facebook, Google) <br>
-**Real-Time Communication**: WebSockets 
+**Real-Time Communication**: WebSockets, WebRTC
 
 Thank you for visiting my profile!
 
