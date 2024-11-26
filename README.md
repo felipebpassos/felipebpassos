@@ -173,6 +173,8 @@ I am open to new opportunities and collaborations. Feel free to [email me](mailt
 
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![reactnative](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 **Frameworks and Libraries**: Node.js, Next.js, React, React Native, Redux <br>
 **styles Frameworks**: Bootstrap, Tailwind <br>
