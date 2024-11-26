@@ -33,6 +33,8 @@ I am open to new opportunities and collaborations. Feel free to [email me](mailt
 - **Technologies**: PHP, HTML, CSS, JavaScript
 - **Highlights**: Clean design, visually appealing with parallax effects, focusing on user experience.
 
+---
+
 <br>
 
 <h3 align="center">
@@ -54,6 +56,8 @@ I am open to new opportunities and collaborations. Feel free to [email me](mailt
 - **Backend Technologies**: Node.js, Express.js, MySQL, AWS S3, ASAAS (Payment Integration), WebSockets, JWT, Redis, WebRTC, Firebase (Push Notifications) 
 - **Highlights**: Intuitive mobile app interface, video calls consultations via WebRTC, payment integration with card tokenization, advanced search functionality.
 
+---
+
 <br>
 
 <h3 align="center">
@@ -73,6 +77,8 @@ I am open to new opportunities and collaborations. Feel free to [email me](mailt
 - **Description**: A secure and customized PHP-based members area for the "Reels de Cinema" course. 
 - **Technologies**: PHP, MVC Architecture, MySQL, Vimeo API, YouTube API, Kiwify Webhooks, HTML/CSS, JavaScript, Bootstrap, JWT, PHP Sessions
 - **Highlights**: Integrates with Kiwify for automatic student updates, supports secure login and access control, and allows video embedding via Vimeo and YouTube APIs for a complete online learning experience.
+
+---
 
 <br>
 
@@ -94,6 +100,8 @@ I am open to new opportunities and collaborations. Feel free to [email me](mailt
 - **Technologies**: PHP, JavaScript, JQuery, Redis, Bootstrap, Mongodb, HTML, CSS, 
 - **Highlights**: 
 
+---
+
 <br>
 
 <h3 align="center">
@@ -113,6 +121,8 @@ I am open to new opportunities and collaborations. Feel free to [email me](mailt
 - **Backend Technologies**: Node.js, Express, sockets.io 
 - **Frontend Technologies**: HTML, CSS, JS, Tailwind, sockets.io-client 
 - **Highlights**: Real-time messaging via WebSockets, support for multiple chat rooms, modern and responsive interface, with security ensured through message sanitization.
+
+---
 
 <br>
 
