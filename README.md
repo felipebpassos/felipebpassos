@@ -11,6 +11,30 @@ I am open to new opportunities and collaborations. Feel free to [email me](mailt
 
 ---
 
+### **Technologies**
+
+![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![reactnative](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![aws](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+**Languages**: JavaScript, TypeScript, PHP, HTML, CSS <br>
+**Frameworks and Libraries**: Node.js, React, React Native, Laravel, Next.js, Redux <br>
+**styles Frameworks**: Bootstrap, Tailwind <br>
+**Databases**: MySQL, MongoDB, Redis <br>
+**Version Control**: Git  <br>
+**DevOps and Infrastructure**: Docker, AWS (S3), CI/CD <br>
+**APIs**: Instagram Graph API, Vimeo API, YouTube API <br>
+**Authentication**: OAuth (Facebook, Google) <br>
+**Real-Time Communication**: WebSockets, WebRTC
+
+---
+
 ### **Highlighted Projects**
 
 <br>
@@ -166,30 +190,6 @@ I am open to new opportunities and collaborations. Feel free to [email me](mailt
 - **Highlights**: Clean design, visually appealing interface focusing on user experience, SEO and storytelling.
 
 <br>
-
----
-
-### **Technologies**
-
-![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![reactnative](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![aws](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-
-**Frameworks and Libraries**: Next.js, Redux <br>
-**styles Frameworks**: Bootstrap, Tailwind <br>
-**Databases**: MySQL, MongoDB, Redis <br>
-**Version Control**: Git  <br>
-**DevOps and Infrastructure**: Docker, AWS (S3), CI/CD <br>
-**APIs**: Instagram Graph API, Vimeo API, YouTube API <br>
-**Authentication**: OAuth (Facebook, Google) <br>
-**Real-Time Communication**: WebSockets, WebRTC
 
 Thank you for visiting my profile!
 
