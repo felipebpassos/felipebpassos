@@ -171,6 +171,9 @@ I am open to new opportunities and collaborations. Feel free to [email me](mailt
 
 ### **Technologies**
 
+[![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://simplifyweb.com.br)
+
+
 **Languages**: JavaScript, PHP, HTML, CSS <br>
 **Frameworks and Libraries**: Node.js, Next.js, React, React Native, Redux <br>
 **styles Frameworks**: Bootstrap, Tailwind <br>
