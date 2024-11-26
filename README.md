@@ -51,7 +51,7 @@ I am open to new opportunities and collaborations. Feel free to [email me](mailt
 
 - **Description**: A telemedicine marketplace mobile App for online appointments and scheduling, built with React Native and Node.js.
 - **Frontend Technologies**: React Native, Redux, Styled Components, WebRTC, Firebase (Push Notifications)
-- **Backend Technologies**: Node.js, Express.js, MySQL, AWS S3, ASAS (Payment Integration), WebSockets, JWT, Redis, WebRTC, Firebase (Push Notifications) 
+- **Backend Technologies**: Node.js, Express.js, MySQL, AWS S3, ASAAS (Payment Integration), WebSockets, JWT, Redis, WebRTC, Firebase (Push Notifications) 
 - **Highlights**: Intuitive mobile app interface, video calls consultations via WebRTC, payment integration with card tokenization, advanced search functionality.
 
 <br>
