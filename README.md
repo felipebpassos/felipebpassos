@@ -21,8 +21,6 @@ I am open to new opportunities and collaborations. Feel free to [email me](mailt
 **Authentication**: OAuth (Facebook, Google) <br>
 **Real-Time Communication**: WebSockets, WebRTC
 
-<br>
-
 ---
 
 <br>
