@@ -157,6 +157,10 @@ I am open to new opportunities and collaborations. Feel free to [email me](mailt
 
 <br>
 
+---
+
+<br>
+
 <h3 align="center">
  <a href="https://github.com/felipebpassos/recz">Recz Films</a>
 </h3>
