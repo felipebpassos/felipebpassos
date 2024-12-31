@@ -43,7 +43,7 @@ Feel free to [email me](mailto:contato@simplifyweb.com.br) or connect with me on
 </p>
 
 <h3>
- <a href="https://github.com/felipebpassos/My-Portfolio-Website">My Portfolio Website</a>
+ <a href="https://github.com/felipebpassos/My-Portfolio-Website">&nbsp;&nbsp;&nbsp;&nbsp;&#9;My Portfolio Website</a>
 </h3>
 
 - **Description**: A modern, minimalistic portfolio with a smooth parallax experience and no scrollbar.
