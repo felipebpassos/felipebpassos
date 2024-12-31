@@ -31,7 +31,7 @@ Feel free to [email me](mailto:contato@simplifyweb.com.br) or connect with me on
 </table>
 
 <h3 align="center">
- Projects 👇
+ Projects/Portfolio 👇
 </h3>
 
 ---
