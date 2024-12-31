@@ -6,6 +6,7 @@
 )
 [![CV](https://img.shields.io/badge/Read.cv-111111.svg?style=for-the-badge&logo=readdotcv&logoColor=white)](https://simplifyweb.com.br/cv)
 
+I'm a 𝙛𝙪𝙡𝙡-𝙨𝙩𝙖𝙘𝙠 developer with 4+ years of experience building 𝙬𝙚𝙗 and 𝙢𝙤𝙗𝙞𝙡𝙚 solutions.
 Feel free to [email me](mailto:contato@simplifyweb.com.br) or connect with me on social media.
 
 <table>
