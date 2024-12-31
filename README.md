@@ -61,7 +61,7 @@ Feel free to [email me](mailto:contato@simplifyweb.com.br) or connect with me on
 <br>
 
 <h3 align="center">
- <a href="https://github.com/felipebpassos/HealupPublic">HealUp</a>
+ <a href="https://github.com/felipebpassos/HealupPublic">Atende+</a>
 </h3>
 
 <p align="center">
