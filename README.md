@@ -86,7 +86,7 @@ Feel free to [email me](mailto:contato@simplifyweb.com.br) or connect with me on
 <br>
 
 <h3 align="center">
- <a href="https://github.com/felipebpassos/ViralSearch">Pesquisa Viral (Viral Search)</a>
+ <a href="https://github.com/felipebpassos/ViralSearch">Pesquisa Viral</a>
 </h3>
 
 <p align="center">
