@@ -8,6 +8,28 @@
 
 Feel free to [email me](mailto:contato@simplifyweb.com.br) or connect with me on social media.
 
+<p align="center">
+ <img src="URL_DA_IMAGEM" alt="JavaScript" width="100"/>
+ <img src="URL_DA_IMAGEM" alt="TypeScript" width="100"/>
+ <img src="URL_DA_IMAGEM" alt="Node.js" width="100"/>
+ <img src="URL_DA_IMAGEM" alt="ReactNative" width="100"/>
+ <img src="URL_DA_IMAGEM" alt="React" width="100"/>
+ <img src="URL_DA_IMAGEM" alt="PHP" width="100"/>
+ <img src="URL_DA_IMAGEM" alt="HTML" width="100"/>
+ <img src="URL_DA_IMAGEM" alt="CSS" width="100"/>
+<p>
+
+<p align="center">
+ <img src="URL_DA_IMAGEM" alt="Bootstrap" width="100"/>
+ <img src="URL_DA_IMAGEM" alt="Tailwind" width="100"/>
+ <img src="URL_DA_IMAGEM" alt="MySQL" width="100"/>
+ <img src="URL_DA_IMAGEM" alt="MongoDB" width="100"/>
+ <img src="URL_DA_IMAGEM" alt="Redis" width="100"/>
+ <img src="URL_DA_IMAGEM" alt="Docker" width="100"/>
+ <img src="URL_DA_IMAGEM" alt="AWS" width="100"/>
+ <img src="URL_DA_IMAGEM" alt="Firebase" width="100"/>
+<p>
+
 <h3 align="center">
  Highlighted Projects 👇
 </h3>
