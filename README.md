@@ -8,25 +8,26 @@
 
 Feel free to [email me](mailto:contato@simplifyweb.com.br) or connect with me on social media.
 
-<p>
- <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.png?raw=true" alt="JavaScript" height="50"/>
- <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/typescript/typescript.png?raw=true" alt="TypeScript" height="50"/>
- <img src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" width="50"/>
- <img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" width="50"/>
- <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/php/php.png?raw=true" alt="PHP" height="50"/>
- <img src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="Bootstrap" height="50"/>
- <img src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="Tailwind" height="50"/>
-<p>
-
-<p>
- <img src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" height="50"/>
- <img src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="MongoDB" height="50"/>
- <img src="https://user-images.githubusercontent.com/25181517/182884894-d3fa6ee0-f2b4-4960-9961-64740f533f2a.png" alt="Redis" height="50"/>
- <img src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" height="50"/>
- <img src="https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png" alt="Firebase" height="50"/>
- <img src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="AWS" height="50"/>
- <img src="https://user-images.githubusercontent.com/25181517/183911544-95ad6ba7-09bf-4040-ac44-0adafedb9616.png" alt="Azure" height="50"/> 
-<p>
+<table>
+  <tr>
+    <td align="center"><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.png?raw=true" alt="JavaScript" height="50"/><br>JavaScript</td>
+    <td align="center"><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/typescript/typescript.png?raw=true" alt="TypeScript" height="50"/><br>TypeScript</td>
+    <td align="center"><img src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" width="50"/><br>Node.js</td>
+    <td align="center"><img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" width="50"/><br>React</td>
+    <td align="center"><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/php/php.png?raw=true" alt="PHP" height="50"/><br>PHP</td>
+    <td align="center"><img src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="Bootstrap" height="50"/><br>Bootstrap</td>
+    <td align="center"><img src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="Tailwind" height="50"/><br>Tailwind</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" height="50"/><br>MySQL</td>
+    <td align="center"><img src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="MongoDB" height="50"/><br>MongoDB</td>
+    <td align="center"><img src="https://user-images.githubusercontent.com/25181517/182884894-d3fa6ee0-f2b4-4960-9961-64740f533f2a.png" alt="Redis" height="50"/><br>Redis</td>
+    <td align="center"><img src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" height="50"/><br>Docker</td>
+    <td align="center"><img src="https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png" alt="Firebase" height="50"/><br>Firebase</td>
+    <td align="center"><img src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="AWS" height="50"/><br>AWS</td>
+    <td align="center"><img src="https://user-images.githubusercontent.com/25181517/183911544-95ad6ba7-09bf-4040-ac44-0adafedb9616.png" alt="Azure" height="50"/><br>Azure</td>
+  </tr>
+</table>
 
 <br>
 
