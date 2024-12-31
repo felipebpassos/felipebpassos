@@ -8,7 +8,7 @@
 
 Feel free to [email me](mailto:contato@simplifyweb.com.br) or connect with me on social media.
 
-<p align="center">
+<p>
  <img src="URL_DA_IMAGEM" alt="JavaScript" width="100"/>
  <img src="URL_DA_IMAGEM" alt="TypeScript" width="100"/>
  <img src="URL_DA_IMAGEM" alt="Node.js" width="100"/>
@@ -19,7 +19,7 @@ Feel free to [email me](mailto:contato@simplifyweb.com.br) or connect with me on
  <img src="URL_DA_IMAGEM" alt="CSS" width="100"/>
 <p>
 
-<p align="center">
+<p>
  <img src="URL_DA_IMAGEM" alt="Bootstrap" width="100"/>
  <img src="URL_DA_IMAGEM" alt="Tailwind" width="100"/>
  <img src="URL_DA_IMAGEM" alt="MySQL" width="100"/>
@@ -29,6 +29,8 @@ Feel free to [email me](mailto:contato@simplifyweb.com.br) or connect with me on
  <img src="URL_DA_IMAGEM" alt="AWS" width="100"/>
  <img src="URL_DA_IMAGEM" alt="Firebase" width="100"/>
 <p>
+
+<br>
 
 <h3 align="center">
  Highlighted Projects 👇
