@@ -30,9 +30,9 @@ Feel free to [email me](mailto:contato@simplifyweb.com.br) or connect with me on
   </tr>
 </table>
 
-<h4 align="center">
+<h3 align="center">
  Projects/Portfolio 👇
-</h4>
+</h3>
 
 ---
 
