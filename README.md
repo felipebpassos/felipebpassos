@@ -34,13 +34,7 @@ Feel free to [email me](mailto:contato@simplifyweb.com.br) or connect with me on
  Projects/Portfolio 👇
 </h3>
 
-<br>
-
 ---
-
-<h3 align="center">
- <a href="https://github.com/felipebpassos/My-Portfolio-Website">My Portfolio Website</a>
-</h3>
 
 <p align="center">
     <img src="https://github.com/felipebpassos/felipebpassos/blob/main/sw1.png?raw=true" alt="Image Example" width="250px">
@@ -48,13 +42,17 @@ Feel free to [email me](mailto:contato@simplifyweb.com.br) or connect with me on
     <img src="https://github.com/felipebpassos/felipebpassos/blob/main/sw3.png?raw=true" alt="Image Example" width="250px">
 </p>
 
-<p align="center" style="color: gray;">
-    <i>👉 Test <a href="https://simplifyweb.com.br">here</a></i>
-</p>
+<h3>
+ <a href="https://github.com/felipebpassos/My-Portfolio-Website">My Portfolio Website</a>
+</h3>
 
 - **Description**: A modern, minimalistic portfolio with a smooth parallax experience and no scrollbar.
 - **Technologies**: PHP, HTML, CSS, JavaScript
 - **Highlights**: Clean design, visually appealing with parallax effects, focusing on user experience.
+
+<p align="center" style="color: gray;">
+    <i>👉 Test <a href="https://simplifyweb.com.br">here</a></i>
+</p>
 
 <br>
 
