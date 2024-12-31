@@ -75,6 +75,30 @@ I am open to new opportunities and collaborations. Feel free to [email me](mailt
 <br>
 
 <h3 align="center">
+ <a href="https://github.com/felipebpassos/ViralSearch">Pesquisa Viral (Viral Search)</a>
+</h3>
+
+<p align="center">
+    <img src="https://github.com/felipebpassos/ViralSearch/blob/main/pv3.png?raw=true" alt="Image Example" width="250px">
+    <img src="https://github.com/felipebpassos/ViralSearch/blob/main/pv1.png?raw=true" alt="Image Example" width="250px">
+    <img src="https://github.com/felipebpassos/ViralSearch/blob/main/pv2.png?raw=true" alt="Image Example" width="250px">
+</p>
+
+<p align="center" style="color: gray;">
+    <i>👉 Test <a href="https://pesquisaviral.com">here</a></i>
+</p>
+
+- **Description**: .
+- **Technologies**: PHP, JavaScript, JQuery, Redis, Bootstrap, Mongodb, HTML, CSS, 
+- **Highlights**: 
+
+<br>
+
+---
+
+<br>
+
+<h3 align="center">
  <a href="https://github.com/felipebpassos/UltimateMembersPublic">Ultimate Members</a>
 </h3>
 
@@ -91,30 +115,6 @@ I am open to new opportunities and collaborations. Feel free to [email me](mailt
 - **Description**: A secure and customized PHP-based members area for the "Reels de Cinema" course. 
 - **Technologies**: PHP, MVC Architecture, MySQL, Vimeo API, YouTube API, Kiwify Webhooks, HTML/CSS, JavaScript, Bootstrap, JWT, PHP Sessions
 - **Highlights**: Integrates with Kiwify for automatic student updates, supports secure login and access control, and allows video embedding via Vimeo and YouTube APIs for a complete online learning experience.
-
-<br>
-
----
-
-<br>
-
-<h3 align="center">
- <a href="https://github.com/felipebpassos/My-Portfolio-Website">Pesquisa Viral (Viral Search)</a>
-</h3>
-
-<p align="center">
-    <img src="https://github.com/felipebpassos/ViralSearch/blob/main/pv3.png?raw=true" alt="Image Example" width="250px">
-    <img src="https://github.com/felipebpassos/ViralSearch/blob/main/pv1.png?raw=true" alt="Image Example" width="250px">
-    <img src="https://github.com/felipebpassos/ViralSearch/blob/main/pv2.png?raw=true" alt="Image Example" width="250px">
-</p>
-
-<p align="center" style="color: gray;">
-    <i>👉 Test <a href="https://pesquisaviral.com">here</a></i>
-</p>
-
-- **Description**: .
-- **Technologies**: PHP, JavaScript, JQuery, Redis, Bootstrap, Mongodb, HTML, CSS, 
-- **Highlights**: 
 
 <br>
 
