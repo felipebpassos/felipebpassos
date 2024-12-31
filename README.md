@@ -1,6 +1,7 @@
 ## **Felipe Passos | Software Engineer 🌐📱👨‍💻**
 
 [![Portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.Portfolio&logoColor=white)](https://simplifyweb.com.br)
+[!Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-passos-70a075138/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.linkedin.com/in/felipe-passos-70a075138/)
 [![CV](https://img.shields.io/badge/Read.cv-111111.svg?style=for-the-badge&logo=readdotcv&logoColor=white)](https://simplifyweb.com.br/cv)
