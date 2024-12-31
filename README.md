@@ -8,6 +8,10 @@
 
 Feel free to [email me](mailto:contato@simplifyweb.com.br) or connect with me on social media.
 
+<h3 align="center">
+ Highlighted Projects 👇
+</h3>
+
 ---
 
 <h3 align="center">
