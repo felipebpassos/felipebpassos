@@ -5,25 +5,9 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.linkedin.com/in/felipe-passos-70a075138/)
 [![CV](https://img.shields.io/badge/Read.cv-111111.svg?style=for-the-badge&logo=readdotcv&logoColor=white)](https://simplifyweb.com.br/cv)
 
-I am open to new opportunities and collaborations. Feel free to [email me](mailto:contato@simplifyweb.com.br) or connect with me on social media.
+Feel free to [email me](mailto:contato@simplifyweb.com.br) or connect with me on social media.
 
 ---
-
-### **Technologies**
-
-**Languages**: JavaScript, TypeScript, PHP, HTML, CSS <br>
-**Frameworks and Libraries**: Node.js, React, React Native, Laravel, Next.js, Redux <br>
-**styles Frameworks**: Bootstrap, Tailwind <br>
-**Databases**: MySQL, MongoDB, Redis <br>
-**Version Control**: Git, Git Flow  <br>
-**DevOps and Infrastructure**: Docker, AWS (EC2, S3 and Lambda), CI/CD <br>
-**APIs**: Instagram Graph API, Vimeo API, YouTube API <br>
-**Authentication**: OAuth (Facebook, Google) <br>
-**Real-Time Communication**: WebSockets, WebRTC
-
----
-
-<br>
 
 <h3 align="center">
  <a href="https://github.com/felipebpassos/My-Portfolio-Website">My Portfolio Website</a>
@@ -181,8 +165,22 @@ I am open to new opportunities and collaborations. Feel free to [email me](mailt
 
 <br>
 
+### **Technologies**
+
+**Languages**: JavaScript, TypeScript, PHP, HTML, CSS <br>
+**Frameworks and Libraries**: Node.js, React, React Native, Laravel, Next.js, Redux <br>
+**styles Frameworks**: Bootstrap, Tailwind <br>
+**Databases**: MySQL, MongoDB, Redis <br>
+**Version Control**: Git, Git Flow  <br>
+**DevOps and Infrastructure**: Docker, AWS (EC2, S3 and Lambda), CI/CD <br>
+**APIs**: Instagram Graph API, Vimeo API, YouTube API <br>
+**Authentication**: OAuth (Facebook, Google) <br>
+**Real-Time Communication**: WebSockets, WebRTC
+
 Thank you for visiting my profile!
 
 ---
+
+<br>
 
 *This README is a general overview and is always evolving. Information may be updated as new projects and technologies are incorporated.*
