@@ -34,6 +34,8 @@ Feel free to [email me](mailto:contato@simplifyweb.com.br) or connect with me on
  Projects/Portfolio 👇
 </h3>
 
+<br>
+
 ---
 
 <h3 align="center">
