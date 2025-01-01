@@ -50,12 +50,6 @@ Feel free to [email me](mailto:contato@simplifyweb.com.br) or connect with me on
 - **Technologies**: PHP, HTML, CSS, JavaScript
 - **Highlights**: Clean design, visually appealing with parallax effects, focusing on user experience.
 
-<p align="center">
-    <a href="https://github.com/felipebpassos/My-Portfolio-Website">
-        <img src="https://img.shields.io/badge/GitHub-Repository-blue?logo=github" alt="GitHub Repository Link">
-    </a>
-</p>
-
 <p align="center" style="color: gray;">
     <i>👉 Test <a href="https://simplifyweb.com.br">here</a></i>
 </p>
@@ -104,12 +98,6 @@ Feel free to [email me](mailto:contato@simplifyweb.com.br) or connect with me on
 - **Description**: .
 - **Technologies**: PHP, JavaScript, JQuery, Redis, Bootstrap, Mongodb, HTML, CSS, 
 - **Highlights**:
-
-<p align="center">
-    <a href="https://github.com/felipebpassos/ViralSearch">
-        <img src="https://img.shields.io/badge/GitHub-Repository-blue?logo=github" alt="GitHub Repository Link">
-    </a>
-</p>
 
 <p align="center" style="color: gray;">
     <i>👉 Test <a href="https://pesquisaviral.com">here</a></i>
