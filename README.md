@@ -85,33 +85,29 @@ Feel free to [email me](mailto:contato@simplifyweb.com.br) or connect with me on
 
 <br>
 
-<h3 align="center">
- <a href="https://github.com/felipebpassos/ViralSearch">Pesquisa Viral</a>
-</h3>
-
 <p align="center">
     <img src="https://github.com/felipebpassos/ViralSearch/blob/main/pv3.png?raw=true" alt="Image Example" width="250px">
     <img src="https://github.com/felipebpassos/ViralSearch/blob/main/pv1.png?raw=true" alt="Image Example" width="250px">
     <img src="https://github.com/felipebpassos/ViralSearch/blob/main/pv2.png?raw=true" alt="Image Example" width="250px">
 </p>
 
-<p align="center" style="color: gray;">
-    <i>👉 Test <a href="https://pesquisaviral.com">here</a></i>
-</p>
+<h3>
+ <a href="https://github.com/felipebpassos/ViralSearch">&nbsp;&nbsp;&nbsp;&nbsp;&#9;Pesquisa Viral</a>
+</h3>
 
 - **Description**: .
 - **Technologies**: PHP, JavaScript, JQuery, Redis, Bootstrap, Mongodb, HTML, CSS, 
-- **Highlights**: 
+- **Highlights**:
+
+<p align="center" style="color: gray;">
+    <i>👉 Test <a href="https://pesquisaviral.com">here</a></i>
+</p>
 
 <br>
 
 ---
 
 <br>
-
-<h3 align="center">
- <a href="https://github.com/felipebpassos/UltimateMembersPublic">Ultimate Members</a>
-</h3>
 
 <p align="center">
     <img src="https://github.com/felipebpassos/UltimateMembersPublic/raw/main/main.png?raw=true" alt="Image Example" width="250px">
@@ -119,37 +115,41 @@ Feel free to [email me](mailto:contato@simplifyweb.com.br) or connect with me on
     <img src="https://github.com/felipebpassos/UltimateMembersPublic/blob/main/usuarios.png?raw=true" alt="Image Example" width="250px">
 </p>
 
-<p align="center" style="color: gray;">
-    <i>⚠️ Private project</i>
-</p>
+<h3>
+ <a href="https://github.com/felipebpassos/UltimateMembersPublic">&nbsp;&nbsp;&nbsp;&nbsp;&#9;Ultimate Members</a>
+</h3>
 
 - **Description**: A secure and customized PHP-based members area for the "Reels de Cinema" course. 
 - **Technologies**: PHP, MVC Architecture, MySQL, Vimeo API, YouTube API, Kiwify Webhooks, HTML/CSS, JavaScript, Bootstrap, JWT, PHP Sessions
 - **Highlights**: Integrates with Kiwify for automatic student updates, supports secure login and access control, and allows video embedding via Vimeo and YouTube APIs for a complete online learning experience.
+
+<p align="center" style="color: gray;">
+    <i>⚠️ Private project</i>
+</p>
 
 <br>
 
 ---
 
 <br>
-
-<h3 align="center">
- <a href="https://github.com/felipebpassos/simple-websockets-chat-app">Chat Room</a>
-</h3>
 
 <p align="center">
     <img src="https://github.com/felipebpassos/simple-websockets-chat-app/blob/master/screenshot01.png?raw=true" alt="Image Example" width="250px">
     <img src="https://github.com/felipebpassos/simple-websockets-chat-app/blob/master/screenshot02.png?raw=true" alt="Image Example" width="250px">
 </p>
 
-<p align="center" style="color: gray;">
-    <i>👉 Test <a href="https://simple-websockets-chat-app-a1z6.onrender.com">here</a></i>
-</p>
+<h3>
+ <a href="https://github.com/felipebpassos/simple-websockets-chat-app">&nbsp;&nbsp;&nbsp;&nbsp;&#9;Chat Room</a>
+</h3>
 
 - **Description**:  A simple and efficient chat application using WebSockets, enabling real-time communication across different rooms. Users can create/join a room with a personalized nickname and exchange instant messages with other room participants.
 - **Backend Technologies**: Node.js, Express, sockets.io 
 - **Frontend Technologies**: HTML, CSS, JS, Tailwind, sockets.io-client 
 - **Highlights**: Real-time messaging via WebSockets, support for multiple chat rooms, modern and responsive interface, with security ensured through message sanitization.
+
+<p align="center" style="color: gray;">
+    <i>👉 Test <a href="https://simple-websockets-chat-app-a1z6.onrender.com">here</a></i>
+</p>
 
 <br>
 
@@ -157,8 +157,8 @@ Feel free to [email me](mailto:contato@simplifyweb.com.br) or connect with me on
 
 <br>
 
-<h3 align="center">
- <a href="https://github.com/felipebpassos/S3Gallery">S3Gallery</a>
+<h3>
+ <a href="https://github.com/felipebpassos/S3Gallery">&nbsp;&nbsp;&nbsp;&nbsp;&#9;S3Gallery</a>
 </h3>
 
 - **Description**: A secure and scalable media gallery that stores photos and videos in an AWS S3 bucket. 
@@ -172,23 +172,23 @@ Feel free to [email me](mailto:contato@simplifyweb.com.br) or connect with me on
 
 <br>
 
-<h3 align="center">
- <a href="https://github.com/felipebpassos/recz">Recz Films</a>
-</h3>
-
 <p align="center">
     <img src="https://github.com/felipebpassos/felipebpassos/blob/main/recz1.png?raw=true" alt="Image Example" width="250px">
     <img src="https://github.com/felipebpassos/felipebpassos/blob/main/recz2.png?raw=true" alt="Image Example" width="250px">
     <img src="https://github.com/felipebpassos/felipebpassos/blob/main/recz3.png?raw=true" alt="Image Example" width="250px">
 </p>
 
-<p align="center" style="color: gray;">
-    <i>👉 Test <a href="https://reczfilms.com">here</a></i>
-</p>
+<h3>
+ <a href="https://github.com/felipebpassos/recz">&nbsp;&nbsp;&nbsp;&nbsp;&#9;Recz Films</a>
+</h3>
 
 - **Description**: A modern High standard landing page da produtora Recz Films.
 - **Technologies**: PHP, HTML, CSS, Bootstrap, JavaScript
 - **Highlights**: Clean design, visually appealing interface focusing on user experience, SEO and storytelling.
+
+<p align="center" style="color: gray;">
+    <i>👉 Test <a href="https://reczfilms.com">here</a></i>
+</p>
 
 <br>
 
