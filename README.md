@@ -30,7 +30,7 @@ Feel free to [email me](mailto:contato@simplifyweb.com.br) or connect with me on
 </table>
 
 <h3>
- Resume
+ Resume/CV:
 </h3>
 
 [![CV](https://img.shields.io/badge/Read.cv-111111.svg?style=for-the-badge&logo=readdotcv&logoColor=white)](https://simplifyweb.com.br/cv)
