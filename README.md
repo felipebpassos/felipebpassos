@@ -29,13 +29,11 @@ Feel free to [email me](mailto:contato@simplifyweb.com.br) or connect with me on
   </tr>
 </table>
 
-<h3 align="center">
+<h3>
  Resume
 </h3>
 
 [![CV](https://img.shields.io/badge/Read.cv-111111.svg?style=for-the-badge&logo=readdotcv&logoColor=white)](https://simplifyweb.com.br/cv)
-
----
 
 <h3 align="center">
  Projects/Portfolio 👇
