@@ -4,7 +4,6 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-passos-70a075138/)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/557996010545
 )
-[![CV](https://img.shields.io/badge/Read.cv-111111.svg?style=for-the-badge&logo=readdotcv&logoColor=white)](https://simplifyweb.com.br/cv)
 
 𝙁𝙪𝙡𝙡-𝙨𝙩𝙖𝙘𝙠 developer with 4+ years of experience building 𝙬𝙚𝙗 and 𝙢𝙤𝙗𝙞𝙡𝙚 solutions.
 Feel free to [email me](mailto:contato@simplifyweb.com.br) or connect with me on social media.
@@ -29,6 +28,8 @@ Feel free to [email me](mailto:contato@simplifyweb.com.br) or connect with me on
     <td align="center"><img src="https://user-images.githubusercontent.com/25181517/183911544-95ad6ba7-09bf-4040-ac44-0adafedb9616.png" alt="Azure" height="50"/><br>Azure</td>
   </tr>
 </table>
+
+[![CV](https://img.shields.io/badge/Read.cv-111111.svg?style=for-the-badge&logo=readdotcv&logoColor=white)](https://simplifyweb.com.br/cv)
 
 <h3 align="center">
  Projects/Portfolio 👇
