@@ -41,39 +41,15 @@ Feel free to [email me](mailto:contato@simplifyweb.com.br) or connect with me on
 
 ---
 
-<p align="center">
-    <img src="https://github.com/felipebpassos/felipebpassos/blob/main/sw1.png?raw=true" alt="Image Example" width="250px">
-    <img src="https://github.com/felipebpassos/felipebpassos/blob/main/sw2.png?raw=true" alt="Image Example" width="250px">
-    <img src="https://github.com/felipebpassos/felipebpassos/blob/main/sw3.png?raw=true" alt="Image Example" width="250px">
-</p>
-
-<h3>
- <a href="https://github.com/felipebpassos/My-Portfolio-Website">&nbsp;&nbsp;&nbsp;&nbsp;&#9;My Portfolio Website</a>
+<h3 align="center">
+ <a href="https://github.com/felipebpassos/HealupPublic">&nbsp;&nbsp;&nbsp;&nbsp;&#9;Atende+</a>
 </h3>
-
-- **Description**: A modern, minimalistic portfolio with a smooth parallax experience and no scrollbar.
-- **Technologies**: PHP, HTML, CSS, JavaScript
-- **Highlights**: Clean design, visually appealing with parallax effects, focusing on user experience.
-
-<p align="center" style="color: gray;">
-    <i>👉 Test <a href="https://simplifyweb.com.br">here</a></i>
-</p>
-
-<br>
-
----
-
-<br>
 
 <p align="center">
     <img src="https://github.com/felipebpassos/felipebpassos/blob/main/healup1.png?raw=true" alt="Image Example" width="250px">
     <img src="https://github.com/felipebpassos/felipebpassos/blob/main/healup2.png?raw=true" alt="Image Example" width="250px">
     <img src="https://github.com/felipebpassos/felipebpassos/blob/main/healup3.png?raw=true" alt="Image Example" width="250px">
 </p>
-
-<h3>
- <a href="https://github.com/felipebpassos/HealupPublic">&nbsp;&nbsp;&nbsp;&nbsp;&#9;Atende+</a>
-</h3>
 
 - **Description**: A telemedicine marketplace mobile App for online appointments and scheduling, built with React Native and Node.js.
 - **Frontend Technologies**: React Native, Redux, Styled Components, WebRTC, Firebase (Push Notifications)
@@ -90,15 +66,39 @@ Feel free to [email me](mailto:contato@simplifyweb.com.br) or connect with me on
 
 <br>
 
+<h3 align="center">
+ <a href="https://github.com/felipebpassos/My-Portfolio-Website">&nbsp;&nbsp;&nbsp;&nbsp;&#9;My Portfolio Website</a>
+</h3>
+
+<p align="center">
+    <img src="https://github.com/felipebpassos/felipebpassos/blob/main/sw1.png?raw=true" alt="Image Example" width="250px">
+    <img src="https://github.com/felipebpassos/felipebpassos/blob/main/sw2.png?raw=true" alt="Image Example" width="250px">
+    <img src="https://github.com/felipebpassos/felipebpassos/blob/main/sw3.png?raw=true" alt="Image Example" width="250px">
+</p>
+
+- **Description**: A modern, minimalistic portfolio with a smooth parallax experience and no scrollbar.
+- **Technologies**: PHP, HTML, CSS, JavaScript
+- **Highlights**: Clean design, visually appealing with parallax effects, focusing on user experience.
+
+<p align="center" style="color: gray;">
+    <i>👉 Test <a href="https://simplifyweb.com.br">here</a></i>
+</p>
+
+<br>
+
+---
+
+<br>
+
+<h3 align="center">
+ <a href="https://github.com/felipebpassos/ViralSearch">&nbsp;&nbsp;&nbsp;&nbsp;&#9;Pesquisa Viral</a>
+</h3>
+
 <p align="center">
     <img src="https://github.com/felipebpassos/ViralSearch/blob/main/pv3.png?raw=true" alt="Image Example" width="250px">
     <img src="https://github.com/felipebpassos/ViralSearch/blob/main/pv1.png?raw=true" alt="Image Example" width="250px">
     <img src="https://github.com/felipebpassos/ViralSearch/blob/main/pv2.png?raw=true" alt="Image Example" width="250px">
 </p>
-
-<h3>
- <a href="https://github.com/felipebpassos/ViralSearch">&nbsp;&nbsp;&nbsp;&nbsp;&#9;Pesquisa Viral</a>
-</h3>
 
 - **Description**: .
 - **Technologies**: PHP, JavaScript, JQuery, Redis, Bootstrap, Mongodb, HTML, CSS, 
@@ -114,15 +114,15 @@ Feel free to [email me](mailto:contato@simplifyweb.com.br) or connect with me on
 
 <br>
 
+<h3 align="center">
+ <a href="https://github.com/felipebpassos/UltimateMembersPublic">&nbsp;&nbsp;&nbsp;&nbsp;&#9;Ultimate Members</a>
+</h3>
+
 <p align="center">
     <img src="https://github.com/felipebpassos/UltimateMembersPublic/raw/main/main.png?raw=true" alt="Image Example" width="250px">
     <img src="https://github.com/felipebpassos/UltimateMembersPublic/blob/main/aula.png?raw=true" alt="Image Example" width="250px">
     <img src="https://github.com/felipebpassos/UltimateMembersPublic/blob/main/usuarios.png?raw=true" alt="Image Example" width="250px">
 </p>
-
-<h3>
- <a href="https://github.com/felipebpassos/UltimateMembersPublic">&nbsp;&nbsp;&nbsp;&nbsp;&#9;Ultimate Members</a>
-</h3>
 
 - **Description**: A secure and customized PHP-based members area for the "Reels de Cinema" course. 
 - **Technologies**: PHP, MVC Architecture, MySQL, Vimeo API, YouTube API, Kiwify Webhooks, HTML/CSS, JavaScript, Bootstrap, JWT, PHP Sessions
@@ -138,14 +138,14 @@ Feel free to [email me](mailto:contato@simplifyweb.com.br) or connect with me on
 
 <br>
 
+<h3 align="center">
+ <a href="https://github.com/felipebpassos/simple-websockets-chat-app">&nbsp;&nbsp;&nbsp;&nbsp;&#9;Chat Room</a>
+</h3>
+
 <p align="center">
     <img src="https://github.com/felipebpassos/simple-websockets-chat-app/blob/master/screenshot01.png?raw=true" alt="Image Example" width="250px">
     <img src="https://github.com/felipebpassos/simple-websockets-chat-app/blob/master/screenshot02.png?raw=true" alt="Image Example" width="250px">
 </p>
-
-<h3>
- <a href="https://github.com/felipebpassos/simple-websockets-chat-app">&nbsp;&nbsp;&nbsp;&nbsp;&#9;Chat Room</a>
-</h3>
 
 - **Description**:  A simple and efficient chat application using WebSockets, enabling real-time communication across different rooms. Users can create/join a room with a personalized nickname and exchange instant messages with other room participants.
 - **Backend Technologies**: Node.js, Express, sockets.io 
@@ -162,7 +162,7 @@ Feel free to [email me](mailto:contato@simplifyweb.com.br) or connect with me on
 
 <br>
 
-<h3>
+<h3 align="center">
  <a href="https://github.com/felipebpassos/S3Gallery">&nbsp;&nbsp;&nbsp;&nbsp;&#9;S3Gallery</a>
 </h3>
 
@@ -177,15 +177,15 @@ Feel free to [email me](mailto:contato@simplifyweb.com.br) or connect with me on
 
 <br>
 
+<h3 align="center">
+ <a href="https://github.com/felipebpassos/recz">&nbsp;&nbsp;&nbsp;&nbsp;&#9;Recz Films</a>
+</h3>
+
 <p align="center">
     <img src="https://github.com/felipebpassos/felipebpassos/blob/main/recz1.png?raw=true" alt="Image Example" width="250px">
     <img src="https://github.com/felipebpassos/felipebpassos/blob/main/recz2.png?raw=true" alt="Image Example" width="250px">
     <img src="https://github.com/felipebpassos/felipebpassos/blob/main/recz3.png?raw=true" alt="Image Example" width="250px">
 </p>
-
-<h3>
- <a href="https://github.com/felipebpassos/recz">&nbsp;&nbsp;&nbsp;&nbsp;&#9;Recz Films</a>
-</h3>
 
 - **Description**: A modern High standard landing page da produtora Recz Films.
 - **Technologies**: PHP, HTML, CSS, Bootstrap, JavaScript
