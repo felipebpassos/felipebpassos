@@ -100,9 +100,9 @@ Feel free to [email me](mailto:contato@simplifyweb.com.br) or connect with me on
     <img src="https://github.com/felipebpassos/ViralSearch/blob/main/pv2.png?raw=true" alt="Image Example" width="250px">
 </p>
 
-- **Description**: .
-- **Technologies**: PHP, JavaScript, JQuery, Redis, Bootstrap, Mongodb, HTML, CSS, 
-- **Highlights**:
+- **Description**: Analyze any business profile on Instagram with ease. The platform allows filtering, sorting, and visualizing performance metrics for posts and profiles. Designed for businesses seeking actionable insights to improve their Instagram presence.
+- **Technologies**: PHP, JavaScript, JQuery, Redis, Bootstrap, MongoDB, HTML, CSS, Instagram Graph API, Facebook OAuth 2.0, JWT.
+- **Highlights**: Efficient data retrieval with paginated Instagram Graph API Business Discovery, advanced profile analysis with filtering and sorting options for feed posts from any business Instagram account, and seamless Facebook login via OAuth 2.0.
 
 <p align="center" style="color: gray;">
     <i>👉 Test <a href="https://pesquisaviral.com">here</a></i>
