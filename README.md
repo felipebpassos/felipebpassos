@@ -61,7 +61,7 @@ Feel free to [email me](mailto:contato@simplifyweb.com.br) or connect with me on
 </p>
 
 <p align="center" style="color: gray;">
-    <i>📁 <a href="https://github.com/AtendeMais">Public Repository</a></i>
+    📂 <i><a href="https://github.com/AtendeMais">Public Repository</a></i>
 </p>
 
 <br>
@@ -89,7 +89,7 @@ Feel free to [email me](mailto:contato@simplifyweb.com.br) or connect with me on
 </p>
 
 <p align="center" style="color: gray;">
-    <i>📂 <a href="https://github.com/My-Portfolio-Website">Repository</a></i>
+    📂 <i><a href="https://github.com/My-Portfolio-Website">Repository</a></i>
 </p>
 
 
