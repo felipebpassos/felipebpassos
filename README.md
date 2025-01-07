@@ -60,11 +60,11 @@ Feel free to [email me](mailto:contato@simplifyweb.com.br) or connect with me on
 - **Backend Technologies**: Node.js, Express.js, MySQL, AWS S3, ASAAS (Payment Integration), WebSockets, JWT, Redis, WebRTC, Firebase (Push Notifications) 
 - **Highlights**: Intuitive mobile app interface, video calls consultations via WebRTC, payment integration with card tokenization, advanced search functionality.
 
-<br>
-
-<p>
+<p align="center">
     📂 <i><a href="https://github.com/AtendeMais">Public Repository</a></i>
 </p>
+
+<br>
 
 ---
 
@@ -84,15 +84,11 @@ Feel free to [email me](mailto:contato@simplifyweb.com.br) or connect with me on
 - **Technologies**: PHP, HTML, CSS, JavaScript
 - **Highlights**: Clean design, visually appealing with parallax effects, focusing on user experience.
 
+<p align="center">
+    👉 <i>Test <a href="https://simplifyweb.com.br">here</a></i> | 📂 <i><a href="https://github.com/My-Portfolio-Website">Repository</a></i>
+</p>
+
 <br>
-
-<p>
-    👉<i> Test <a href="https://simplifyweb.com.br">here</a></i>
-</p>
-
-<p>
-    📂 <i><a href="https://github.com/My-Portfolio-Website">Repository</a></i>
-</p>
 
 ---
 
