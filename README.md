@@ -42,7 +42,7 @@ Feel free to [email me](mailto:contato@simplifyweb.com.br) or connect with me on
 ---
 
 <h3 align="center">
- <a href="https://github.com/felipebpassos/HealupPublic">&nbsp;&nbsp;&nbsp;&nbsp;&#9;Atende+</a>
+ <a href="https://github.com/felipebpassos/AtendeMais">&nbsp;&nbsp;&nbsp;&nbsp;&#9;Atende+</a>
 </h3>
 
 <p align="center">
@@ -58,6 +58,10 @@ Feel free to [email me](mailto:contato@simplifyweb.com.br) or connect with me on
 
 <p align="center" style="color: gray;">
     <i>⚠️ Private project</i>
+</p>
+
+<p align="center" style="color: gray;">
+    <i>📁 Public Repository <a href="https://github.com/AtendeMais">here</a></i>
 </p>
 
 <br>
@@ -83,6 +87,11 @@ Feel free to [email me](mailto:contato@simplifyweb.com.br) or connect with me on
 <p align="center" style="color: gray;">
     <i>👉 Test <a href="https://simplifyweb.com.br">here</a></i>
 </p>
+
+<p align="center" style="color: gray;">
+    <i>📂 Repository <a href="https://github.com/My-Portfolio-Website">here</a></i>
+</p>
+
 
 <br>
 
