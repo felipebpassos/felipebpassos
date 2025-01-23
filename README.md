@@ -91,7 +91,7 @@ Feel free to [email me](mailto:contato@simplifyweb.com.br) or connect with me on
 <br>
 
 <h3 align="center">
- <a href="https://github.com/felipebpassos/ViralSearch">&nbsp;&nbsp;&nbsp;&nbsp;&#9;Pesquisa Viral</a>
+ <a href="https://github.com/felipebpassos/pesquisaviral">&nbsp;&nbsp;&nbsp;&nbsp;&#9;Pesquisa Viral</a>
 </h3>
 
 <p align="center">
@@ -105,7 +105,7 @@ Feel free to [email me](mailto:contato@simplifyweb.com.br) or connect with me on
 - **Highlights**: Efficient data retrieval with paginated Instagram Graph API Business Discovery, advanced profile analysis with filtering and sorting options for feed posts from any business Instagram account, and seamless Facebook login via OAuth 2.0.
 
 <p align="center" style="color: gray;">
-    <i>👉 Test <a href="https://pesquisaviral.com">here</a></i>
+    <i>👉 Test <a href="https://pesquisaviral.com">here</a></i> | 📂 <i><a href="https://github.com/felipebpassos/pesquisaviral">Repository</a></i>
 </p>
 
 <br>
@@ -115,7 +115,7 @@ Feel free to [email me](mailto:contato@simplifyweb.com.br) or connect with me on
 <br>
 
 <h3 align="center">
- <a href="https://github.com/felipebpassos/UltimateMembersPublic">&nbsp;&nbsp;&nbsp;&nbsp;&#9;Ultimate Members</a>
+ <a href="https://github.com/felipebpassos/ultimatemembers">&nbsp;&nbsp;&nbsp;&nbsp;&#9;Ultimate Members</a>
 </h3>
 
 <p align="center">
@@ -129,7 +129,7 @@ Feel free to [email me](mailto:contato@simplifyweb.com.br) or connect with me on
 - **Highlights**: Integrates with Kiwify for automatic student updates, supports secure login and access control, and allows video embedding via Vimeo and YouTube APIs for a complete online learning experience.
 
 <p align="center" style="color: gray;">
-    <i>⚠️ Private project</i>
+    📂 <i><a href="https://github.com/felipebpassos/My-Portfolio-Website">Repository</a></i>
 </p>
 
 <br>
