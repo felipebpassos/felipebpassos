@@ -129,7 +129,7 @@ Feel free to [email me](mailto:contato@simplifyweb.com.br) or connect with me on
 - **Highlights**: Integrates with Kiwify for automatic student updates, supports secure login and access control, and allows video embedding via Vimeo and YouTube APIs for a complete online learning experience.
 
 <p align="center" style="color: gray;">
-    📂 <i><a href="https://github.com/felipebpassos/My-Portfolio-Website">Repository</a></i>
+    📂 <i><a href="https://github.com/felipebpassos/ultimatemembers">Repository</a></i>
 </p>
 
 <br>
