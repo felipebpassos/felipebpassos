@@ -163,21 +163,6 @@ Feel free to [email me](mailto:contato@simplifyweb.com.br) or connect with me on
 <br>
 
 <h3 align="center">
- <a href="https://github.com/felipebpassos/S3Gallery">&nbsp;&nbsp;&nbsp;&nbsp;&#9;S3Gallery</a>
-</h3>
-
-- **Description**: A secure and scalable media gallery that stores photos and videos in an AWS S3 bucket. 
-- **Backend Technologies**: Node.js, Express, JWT, MySQL, AWS S3 
-- **Frontend Technologies**: HTML, CSS, JS, Bootstrap, JQuery, AJAX 
-- **Highlights**: AWS S3 keeps storage simple, secure, and cost-effective. It scales with your project, so you only pay for what you use. Pre-signed URLs protect your files, making sure only the right people can access them. It’s a smart choice for handling media in any growing app.
-
-<br>
-
----
-
-<br>
-
-<h3 align="center">
  <a href="https://github.com/felipebpassos/recz">&nbsp;&nbsp;&nbsp;&nbsp;&#9;Recz Films</a>
 </h3>
 
@@ -194,6 +179,21 @@ Feel free to [email me](mailto:contato@simplifyweb.com.br) or connect with me on
 <p align="center" style="color: gray;">
     <i>👉 Test <a href="https://reczfilms.com">here</a></i>
 </p>
+
+<br>
+
+---
+
+<br>
+
+<h3 align="center">
+ <a href="https://github.com/felipebpassos/S3Gallery">&nbsp;&nbsp;&nbsp;&nbsp;&#9;S3Gallery</a>
+</h3>
+
+- **Description**: A secure and scalable media gallery that stores photos and videos in an AWS S3 bucket. 
+- **Backend Technologies**: Node.js, Express, JWT, MySQL, AWS S3 
+- **Frontend Technologies**: HTML, CSS, JS, Bootstrap, JQuery, AJAX 
+- **Highlights**: AWS S3 keeps storage simple, secure, and cost-effective. It scales with your project, so you only pay for what you use. Pre-signed URLs protect your files, making sure only the right people can access them. It’s a smart choice for handling media in any growing app.
 
 <br>
 
