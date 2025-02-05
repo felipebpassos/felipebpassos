@@ -71,7 +71,7 @@ Feel free to [email me](mailto:contato@simplifyweb.com.br) or connect with me on
 </h3>
 
 <p align="center">
-    <img src="https://github.com/felipebpassos/felipebpassos/felipebpassos/blob/main/sw1.png?raw=true" alt="Image Example" width="250px">
+    <img src="https://github.com/felipebpassos/felipebpassos//blob/main/sw1.png?raw=true" alt="Image Example" width="250px">
     <img src="https://github.com/felipebpassos/felipebpassos/blob/main/sw2.png?raw=true" alt="Image Example" width="250px">
     <img src="https://github.com/felipebpassos/felipebpassos/blob/main/sw3.png?raw=true" alt="Image Example" width="250px">
 </p>
