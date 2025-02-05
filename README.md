@@ -88,6 +88,28 @@ Feel free to [email me](mailto:contato@simplifyweb.com.br) or connect with me on
 
 ---
 
+<h3 align="center">
+ <a href="https://github.com/felipebpassos/pomar">&nbsp;&nbsp;&nbsp;&nbsp;&#9;Pomar do Brasil</a>
+</h3>
+
+<p align="center">
+    <img src="https://github.com/felipebpassos/ViralSearch/blob/main/pomar1.png?raw=true" alt="Image Example" width="250px">
+    <img src="https://github.com/felipebpassos/ViralSearch/blob/main/pomar2.png?raw=true" alt="Image Example" width="250px">
+    <img src="https://github.com/felipebpassos/ViralSearch/blob/main/pomar3.png?raw=true" alt="Image Example" width="250px">
+</p>
+
+- **Description**: Simple e-commerce website for a fruit pulp factory.
+- **Technologies**: PHP, JavaScript, Bootstrap, MySQL, HTML, CSS.
+- **Highlights**: Efficient data retrieval with paginated Instagram Graph API Business Discovery, advanced profile analysis with filtering and sorting options for feed posts from any business Instagram account, and seamless Facebook login via OAuth 2.0.
+
+<p align="center" style="color: gray;">
+    <i>👉 Test <a href="https://pomardobrasil.com.br">here</a></i> | 📂 <i><a href="https://github.com/felipebpassos/pomar">Repository</a></i>
+</p>
+
+<br>
+
+---
+
 <br>
 
 <h3 align="center">
