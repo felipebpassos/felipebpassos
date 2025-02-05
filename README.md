@@ -98,9 +98,9 @@ Feel free to [email me](mailto:contato@simplifyweb.com.br) or connect with me on
     <img src="https://github.com/felipebpassos/felipebpassos/blob/main/pomar3.png?raw=true" alt="Image Example" width="250px">
 </p>
 
-- **Description**: Simple e-commerce website for a fruit pulp factory.
+- **Description**: A simple e-commerce and institutional website for a fruit pulp factory. It features a product catalog where users can browse items, add them to the cart, and submit their order via WhatsApp.
 - **Technologies**: PHP, JavaScript, Bootstrap, MySQL, HTML, CSS.
-- **Highlights**: Efficient data retrieval with paginated Instagram Graph API Business Discovery, advanced profile analysis with filtering and sorting options for feed posts from any business Instagram account, and seamless Facebook login via OAuth 2.0.
+- **Highlights**: A modern and responsive interface with a well-organized catalog. Orders are sent via WhatsApp, and the site also provides company details and contact options.
 
 <p align="center" style="color: gray;">
     <i>👉 Test <a href="https://pomardobrasil.com.br">here</a></i> | 📂 <i><a href="https://github.com/felipebpassos/pomar">Repository</a></i>
