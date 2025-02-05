@@ -93,9 +93,9 @@ Feel free to [email me](mailto:contato@simplifyweb.com.br) or connect with me on
 </h3>
 
 <p align="center">
-    <img src="https://github.com/felipebpassos/ViralSearch/blob/main/pomar1.png?raw=true" alt="Image Example" width="250px">
-    <img src="https://github.com/felipebpassos/ViralSearch/blob/main/pomar2.png?raw=true" alt="Image Example" width="250px">
-    <img src="https://github.com/felipebpassos/ViralSearch/blob/main/pomar3.png?raw=true" alt="Image Example" width="250px">
+    <img src="https://github.com/felipebpassos/blob/main/pomar1.png?raw=true" alt="Image Example" width="250px">
+    <img src="https://github.com/felipebpassos/blob/main/pomar2.png?raw=true" alt="Image Example" width="250px">
+    <img src="https://github.com/felipebpassos/blob/main/pomar3.png?raw=true" alt="Image Example" width="250px">
 </p>
 
 - **Description**: Simple e-commerce website for a fruit pulp factory.
