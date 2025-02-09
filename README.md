@@ -194,7 +194,7 @@ Feel free to [email me](mailto:contato@simplifyweb.com.br) or connect with me on
     <img src="https://github.com/felipebpassos/felipebpassos/blob/main/recz3.png?raw=true" alt="Image Example" width="250px">
 </p>
 
-- **Description**: A modern High standard landing page da produtora Recz Films.
+- **Description**: A modern, high-standard landing page for the production company Recz Films.
 - **Technologies**: PHP, HTML, CSS, Bootstrap, JavaScript
 - **Highlights**: Clean design, visually appealing interface focusing on user experience, SEO and storytelling.
 
