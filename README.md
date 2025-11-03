@@ -57,7 +57,7 @@ Feel free to [email me](mailto:contato@simplifyweb.com.br) or connect with me on
 - **Highlights**: Intuitive mobile app interface, video calls consultations via WebRTC, payment integration with card tokenization, advanced search functionality.
 
 <p align="center">
-    📂 <i><a href="https://github.com/felipebpassos/AtendeMais">Public Repository</a></i>
+    📂 <i><a href="https://github.com/felipebpassos/AtendeMais">See more</a></i>
 </p>
 
 <br>
