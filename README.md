@@ -92,7 +92,7 @@ Feel free to [email me](mailto:contato@simplifyweb.com.br) or connect with me on
 <br>
 
 <p align="center" style="color: gray;">
-    <i>👉 Test <a href="https://pomardobrasil.com.br">here</a></i> | 📂 <i><a href="https://github.com/felipebpassos/pomar">Repository</a></i>
+    <i>👉 Test <a href="https://https://estudai.site/">here</a></i>
 </p>
 
 <br>
