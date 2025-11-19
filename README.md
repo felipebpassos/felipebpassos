@@ -41,9 +41,9 @@ Feel free to [email me](mailto:contato@simplifyweb.com.br) or connect with me on
 </h3>
 
 <p align="center">
-    <img src="https://via.placeholder.com/250x500?text=Ritmo+App+1" width="250px">
-    <img src="https://via.placeholder.com/250x500?text=Ritmo+App+2" width="250px">
-    <img src="https://via.placeholder.com/250x500?text=Ritmo+App+3" width="250px">
+    <img src="https://github.com/felipebpassos/ritmoatletasv2/blob/main/img/portfolio1.png?raw=true" width="250px">
+    <img src="https://github.com/felipebpassos/ritmoatletasv2/blob/main/img/portfolio2.png?raw=true" width="250px">
+    <img src="https://github.com/felipebpassos/ritmoatletasv2/blob/main/img/portfolio3.png?raw=true" width="250px">
 </p>
 
 - **Description**: Mobile app for sports academies, including billing, contracts, plans, payments, e-commerce and engagement features inside a multi-tenant ecosystem.
