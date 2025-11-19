@@ -64,30 +64,6 @@ Feel free to [email me](mailto:contato@simplifyweb.com.br) or connect with me on
 
 ---
 
-<br>
-
-<h3 align="center">
- <a href="https://github.com/felipebpassos/My-Portfolio-Website">&nbsp;&nbsp;&nbsp;&nbsp;&#9;My Portfolio Website</a>
-</h3>
-
-<p align="center">
-    <img src="https://github.com/felipebpassos/felipebpassos//blob/main/sw1.png?raw=true" alt="Image Example" width="250px">
-    <img src="https://github.com/felipebpassos/felipebpassos/blob/main/sw2.png?raw=true" alt="Image Example" width="250px">
-    <img src="https://github.com/felipebpassos/felipebpassos/blob/main/sw3.png?raw=true" alt="Image Example" width="250px">
-</p>
-
-- **Description**: A modern, minimalistic portfolio with a smooth parallax experience and no scrollbar.
-- **Technologies**: PHP, HTML, CSS, JavaScript
-- **Highlights**: Clean design, visually appealing with parallax effects, focusing on user experience.
-
-<p align="center">
-    👉 <i>Test <a href="https://simplifyweb.com.br">here</a></i> | 📂 <i><a href="https://github.com/felipebpassos/My-Portfolio-Website">Repository</a></i>
-</p>
-
-<br>
-
----
-
 <h3 align="center">
  <a href="https://github.com/felipebpassos/pomar">&nbsp;&nbsp;&nbsp;&nbsp;&#9;Pomar do Brasil</a>
 </h3>
@@ -113,69 +89,21 @@ Feel free to [email me](mailto:contato@simplifyweb.com.br) or connect with me on
 <br>
 
 <h3 align="center">
- <a href="https://github.com/felipebpassos/pesquisaviral">&nbsp;&nbsp;&nbsp;&nbsp;&#9;Pesquisa Viral</a>
+ <a href="https://github.com/felipebpassos/My-Portfolio-Website">&nbsp;&nbsp;&nbsp;&nbsp;&#9;My Portfolio Website</a>
 </h3>
 
 <p align="center">
-    <img src="https://github.com/felipebpassos/ViralSearch/blob/main/pv3.png?raw=true" alt="Image Example" width="250px">
-    <img src="https://github.com/felipebpassos/ViralSearch/blob/main/pv1.png?raw=true" alt="Image Example" width="250px">
-    <img src="https://github.com/felipebpassos/ViralSearch/blob/main/pv2.png?raw=true" alt="Image Example" width="250px">
+    <img src="https://github.com/felipebpassos/felipebpassos//blob/main/sw1.png?raw=true" alt="Image Example" width="250px">
+    <img src="https://github.com/felipebpassos/felipebpassos/blob/main/sw2.png?raw=true" alt="Image Example" width="250px">
+    <img src="https://github.com/felipebpassos/felipebpassos/blob/main/sw3.png?raw=true" alt="Image Example" width="250px">
 </p>
 
-- **Description**: Analyze any business profile on Instagram with ease. The platform allows filtering, sorting, and visualizing performance metrics for posts and profiles. Designed for businesses seeking actionable insights to improve their Instagram presence.
-- **Technologies**: PHP, JavaScript, JQuery, Redis, Bootstrap, MongoDB, HTML, CSS, Instagram Graph API, Facebook OAuth 2.0, JWT.
-- **Highlights**: Efficient data retrieval with paginated Instagram Graph API Business Discovery, advanced profile analysis with filtering and sorting options for feed posts from any business Instagram account, and seamless Facebook login via OAuth 2.0.
-
-<p align="center" style="color: gray;">
-    <i>👉 Test <a href="https://pesquisaviral.com">here</a></i> | 📂 <i><a href="https://github.com/felipebpassos/pesquisaviral">Repository</a></i>
-</p>
-
-<br>
-
----
-
-<br>
-
-<h3 align="center">
- <a href="https://github.com/felipebpassos/ultimatemembers">&nbsp;&nbsp;&nbsp;&nbsp;&#9;Ultimate Members</a>
-</h3>
+- **Description**: A modern, minimalistic portfolio with a smooth parallax experience and no scrollbar.
+- **Technologies**: PHP, HTML, CSS, JavaScript
+- **Highlights**: Clean design, visually appealing with parallax effects, focusing on user experience.
 
 <p align="center">
-    <img src="https://github.com/felipebpassos/UltimateMembersPublic/raw/main/main.png?raw=true" alt="Image Example" width="250px">
-    <img src="https://github.com/felipebpassos/UltimateMembersPublic/blob/main/aula.png?raw=true" alt="Image Example" width="250px">
-    <img src="https://github.com/felipebpassos/UltimateMembersPublic/blob/main/usuarios.png?raw=true" alt="Image Example" width="250px">
-</p>
-
-- **Description**: A secure and customized PHP-based members area for the "Reels de Cinema" course. 
-- **Technologies**: PHP, MVC Architecture, MySQL, Vimeo API, YouTube API, Kiwify Webhooks, HTML/CSS, JavaScript, Bootstrap, JWT, PHP Sessions
-- **Highlights**: Integrates with Kiwify for automatic student updates, supports secure login and access control, and allows video embedding via Vimeo and YouTube APIs for a complete online learning experience.
-
-<p align="center" style="color: gray;">
-    📂 <i><a href="https://github.com/felipebpassos/ultimatemembers">Repository</a></i>
-</p>
-
-<br>
-
----
-
-<br>
-
-<h3 align="center">
- <a href="https://github.com/felipebpassos/simple-websockets-chat-app">&nbsp;&nbsp;&nbsp;&nbsp;&#9;Chat Room</a>
-</h3>
-
-<p align="center">
-    <img src="https://github.com/felipebpassos/simple-websockets-chat-app/blob/master/screenshot01.png?raw=true" alt="Image Example" width="250px">
-    <img src="https://github.com/felipebpassos/simple-websockets-chat-app/blob/master/screenshot02.png?raw=true" alt="Image Example" width="250px">
-</p>
-
-- **Description**:  A simple and efficient chat application using WebSockets, enabling real-time communication across different rooms. Users can create/join a room with a personalized nickname and exchange instant messages with other room participants.
-- **Backend Technologies**: Node.js, Express, sockets.io 
-- **Frontend Technologies**: HTML, CSS, JS, Tailwind, sockets.io-client 
-- **Highlights**: Real-time messaging via WebSockets, support for multiple chat rooms, modern and responsive interface, with security ensured through message sanitization.
-
-<p align="center" style="color: gray;">
-    <i>👉 Test <a href="https://simple-websockets-chat-app-a1z6.onrender.com">here</a></i>
+    👉 <i>Test <a href="https://simplifyweb.com.br">here</a></i> | 📂 <i><a href="https://github.com/felipebpassos/My-Portfolio-Website">Repository</a></i>
 </p>
 
 <br>
