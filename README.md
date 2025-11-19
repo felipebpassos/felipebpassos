@@ -70,7 +70,7 @@ Feel free to [email me](mailto:contato@simplifyweb.com.br) or connect with me on
 <br>
 
 <h3 align="center">
- <a href="#">&nbsp;&nbsp;&nbsp;&nbsp;Estud.ai</a>
+ <a href="#">&nbsp;&nbsp;&nbsp;&nbsp;ESTUD.AI</a>
 </h3>
 
 <p align="center">
@@ -116,7 +116,7 @@ Feel free to [email me](mailto:contato@simplifyweb.com.br) or connect with me on
 </p>
 
 - **Description**: A telemedicine marketplace mobile App for online appointments and scheduling, built with React Native and Node.js.
-- **Frontend Technologies**: React Native, Redux, Styled Components, WebRTC, Firebase (Push Notifications)
+- **Frontend Technologies**: React Native (Expo), Redux, Styled Components, WebRTC, Firebase (Push Notifications)
 - **Backend Technologies**: Node.js, Express.js, MySQL, AWS S3, ASAAS (Payment Integration), WebSockets, JWT, Redis, WebRTC, Firebase (Push Notifications) 
 - **Highlights**: Intuitive mobile app interface, video calls consultations via WebRTC, payment integration with card tokenization, advanced search functionality.
 
