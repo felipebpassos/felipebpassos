@@ -57,11 +57,11 @@ Feel free to [email me](mailto:contato@simplifyweb.com.br) or connect with me on
                                                                                                                                
 <p align="center">
   <a href="https://play.google.com/store/apps/details?id=com.ritmodoesporte.ritmoatletas" target="_blank">
-    <img alt="Get it on Google Play" height="55" src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg"/>
+    <img height="55" src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg"/>
   </a>
   &nbsp;
   <a href="https://apps.apple.com/us/app/ritmo-atletas/id1508732883" target="_blank">
-    <img alt="Download on the App Store" height="55" src="https://upload.wikimedia.org/wikipedia/commons/6/67/Download_on_the_App_Store_Badge_US-UK_RGB_blk.svg"/>
+    <img height="55" src="https://upload.wikimedia.org/wikipedia/commons/6/67/Download_on_the_App_Store_Badge_US-UK_RGB_blk.svg"/>
   </a>
 </p>
 
