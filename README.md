@@ -37,25 +37,15 @@ Feel free to [email me](mailto:contato@simplifyweb.com.br) or connect with me on
 
 ---
 
-<h3 align="center"> <a href="#">Ritmo do Esporte – App Ritmo Atletas V2</a> </h3> <p align="center"> <img src="https://via.placeholder.com/250x500?text=Ritmo+V2+1" width="250px"> <img src="https://via.placeholder.com/250x500?text=Ritmo+V2+2" width="250px"> <img src="https://via.placeholder.com/250x500?text=Ritmo+V2+3" width="250px"> </p> <p align="center" style="color: gray;"> <i>⚠️ Projeto privado</i> </p>
+<h3 align="center"> <a href="#">&nbsp;&nbsp;&nbsp;&nbsp;Ritmo Atletas V2</a> </h3> <p align="center"> <a href="https://play.google.com/store/apps/details?id=com.ritmodoesporte.ritmoatletas" target="_blank"> <img alt="Get it on Google Play" height="55" src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg"/> </a> &nbsp; <a href="https://apps.apple.com/us/app/ritmo-atletas/id1508732883" target="_blank"> <img alt="Download on the App Store" height="55" src="https://upload.wikimedia.org/wikipedia/commons/6/67/Download_on_the_App_Store_Badge_US-UK_RGB_blk.svg"/> </a> </p> <p align="center"> <img src="https://via.placeholder.com/250x500?text=Ritmo+App+1" width="250px"> <img src="https://via.placeholder.com/250x500?text=Ritmo+App+2" width="250px"> <img src="https://via.placeholder.com/250x500?text=Ritmo+App+3" width="250px"> </p> <p align="center" style="color: gray;"> <i>⚠️ Private project</i> </p>
 
-Descrição: Aplicativo oficial do ecossistema Ritmo do Esporte, utilizado por atletas e academias para gestão completa de treinos, pagamentos, contratos, ranking, avaliações físicas, feed social e muito mais. Fui responsável por todo o frontend mobile, novas telas, otimizações, integrações e fluxos, além de suporte ao backend.
+Description: Mobile app for sports academies, including billing, contracts, plans, payments, e-commerce and engagement features inside a multi-tenant ecosystem.
 
-Stack (Frontend): React Native (Expo), Redux, Styled Components, React Hook Form, WebSockets, Push Notifications, Deep Linking.
+Technologies: React Native (Expo), TypeScript, Apollo Client (GraphQL), Redux, AWS S3, Deep Linking, Push Notifications.
 
-Stack (Backend – suporte): Node.js, Express, MySQL, AWS S3, Redis, ASAAS.
+Highlights: Full financial module (contracts, plans, invoices, payments), white-label UI, S3 uploads, internal store, ranking/feed features and optimized navigation/state.
 
-Destaques:
-
-Reestruturação da V2 inteira do app
-
-Integração com ASAAS (planos, pagamentos, recorrência, boletos e PIX)
-
-Feed social, contratos, agenda, ranking, avaliações
-
-Otimização de navegação, performance e UI/UX
-
-Fluxos complexos com multi-permissions para atletas e responsáveis
+<br>
 
 <br>
 
