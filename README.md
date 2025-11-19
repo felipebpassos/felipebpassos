@@ -36,8 +36,15 @@ Feel free to [email me](mailto:contato@simplifyweb.com.br) or connect with me on
 </h3>
 
 ---
+<h3 align="center">
+ <a href="#">&nbsp;&nbsp;&nbsp;&nbsp;Ritmo Atletas V2</a>
+</h3>
 
-src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg"/> </a> &nbsp; <a href="https://apps.apple.com/us/app/ritmo-atletas/id1508732883" target="_blank"> <img alt="Download on the App Store" height="55" src="https://upload.wikimedia.org/wikipedia/commons/6/67/Download_on_the_App_Store_Badge_US-UK_RGB_blk.svg"/> </a> </p> <p align="center"> <img src="https://via.placeholder.com/250x500?text=Ritmo+App+1" width="250px"> <img src="https://via.placeholder.com/250x500?text=Ritmo+App+2" width="250px"> <img src="https://via.placeholder.com/250x500?text=Ritmo+App+3" width="250px"> </p> <p align="center" style="color: gray;"> <i>⚠️ Private project</i> </p>
+<p align="center">
+    <img src="https://via.placeholder.com/250x500?text=Ritmo+App+1" width="250px">
+    <img src="https://via.placeholder.com/250x500?text=Ritmo+App+2" width="250px">
+    <img src="https://via.placeholder.com/250x500?text=Ritmo+App+3" width="250px">
+</p>
 
 - **Description**: Mobile app for sports academies, including billing, contracts, plans, payments, e-commerce and engagement features inside a multi-tenant ecosystem.
 
@@ -45,7 +52,17 @@ src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge
 
 - **Highlights**: Full financial module (contracts, plans, invoices, payments), white-label UI, S3 uploads, internal store, ranking/feed features and optimized navigation/state.
 
-<h3 align="center"> <a href="#">&nbsp;&nbsp;&nbsp;&nbsp;Ritmo Atletas V2</a> </h3> <p align="center"> <a href="https://play.google.com/store/apps/details?id=com.ritmodoesporte.ritmoatletas" target="_blank"> <img alt="Get it on Google Play" height="55" 
+ <p align="center"> <a href="https://play.google.com/store/apps/details?id=com.ritmodoesporte.ritmoatletas" target="_blank"> <img alt="Get it on Google Play" height="55" 
+                                                                                                                               
+<p align="center">
+  <a href="https://play.google.com/store/apps/details?id=com.ritmodoesporte.ritmoatletas" target="_blank">
+    <img alt="Get it on Google Play" height="55" src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg"/>
+  </a>
+  &nbsp;
+  <a href="https://apps.apple.com/us/app/ritmo-atletas/id1508732883" target="_blank">
+    <img alt="Download on the App Store" height="55" src="https://upload.wikimedia.org/wikipedia/commons/6/67/Download_on_the_App_Store_Badge_US-UK_RGB_blk.svg"/>
+  </a>
+</p>
 
 <br>
 
