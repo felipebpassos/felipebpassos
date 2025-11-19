@@ -70,6 +70,38 @@ Feel free to [email me](mailto:contato@simplifyweb.com.br) or connect with me on
 <br>
 
 <h3 align="center">
+ <a href="#">&nbsp;&nbsp;&nbsp;&nbsp;Estud.ai</a>
+</h3>
+
+<p align="center">
+    <img src="https://via.placeholder.com/250x500?text=Estud.ai+1" width="250px">
+    <img src="https://via.placeholder.com/250x500?text=Estud.ai+2" width="250px">
+    <img src="https://via.placeholder.com/250x500?text=Estud.ai+3" width="250px">
+    <img src="https://via.placeholder.com/250x500?text=Estud.ai+4" width="250px">
+    <img src="https://via.placeholder.com/250x500?text=Estud.ai+5" width="250px">
+</p>
+
+<p align="center" style="color: gray;">
+    <i>⚠️ Private project</i>
+</p>
+
+- **Description**: School platform with 5 access levels, academic records, grade management, performance dashboards and AI-generated summaries for students and teachers.
+- **Technologies**: Next.js, React, TypeScript, Tailwind, Node.js, Express, Prisma, PostgreSQL.
+- **Highlights**: Multi-level access system, academic management, AI summaries, clean UI, and scalable architecture.
+
+<br>
+
+<p align="center" style="color: gray;">
+    <i>👉 Test <a href="https://pomardobrasil.com.br">here</a></i> | 📂 <i><a href="https://github.com/felipebpassos/pomar">Repository</a></i>
+</p>
+
+<br>
+
+---
+
+<br>
+
+<h3 align="center">
  <a href="https://github.com/felipebpassos/AtendeMais">&nbsp;&nbsp;&nbsp;&nbsp;&#9;Atende+</a>
 </h3>
 
