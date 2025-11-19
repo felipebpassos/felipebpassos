@@ -151,6 +151,34 @@ Feel free to [email me](mailto:contato@simplifyweb.com.br) or connect with me on
 
 ---
 
+<h3 align="center">
+ <a href="#">&nbsp;&nbsp;&nbsp;&nbsp;Área de Cinema</a>
+</h3>
+
+<p align="center">
+    <img src="https://via.placeholder.com/250x500?text=Cinema+1" width="250px">
+    <img src="https://via.placeholder.com/250x500?text=Cinema+2" width="250px">
+    <img src="https://via.placeholder.com/250x500?text=Cinema+3" width="250px">
+    <img src="https://via.placeholder.com/250x500?text=Cinema+4" width="250px">
+    <img src="https://via.placeholder.com/250x500?text=Cinema+5" width="250px">
+</p>
+
+<p align="center" style="color: gray;">
+    <i>⚠️ Private project</i>
+</p>
+
+- **Description**: White-label and multi-tenant course platform with private members area, video lessons, modules, progress tracking and subscription payments.
+- **Technologies**: Next.js, React, Tailwind, Node.js, Express, Prisma, PostgreSQL, AWS S3, ASAAS Webhooks.
+- **Highlights**: Multi-tenant setup, auto-activation via ASAAS, customizable layout, video modules and progress tracking.
+
+<br>
+
+<p align="center" style="color: gray;">
+    <i>👉 Test <a href="https://reelsdecinema.areadecinema.com">here</a></i>
+</p>
+
+---
+
 <br>
 
 <h3 align="center">
