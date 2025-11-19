@@ -37,6 +37,28 @@ Feel free to [email me](mailto:contato@simplifyweb.com.br) or connect with me on
 
 ---
 
+<h3 align="center"> <a href="#">Ritmo do Esporte – App Ritmo Atletas V2</a> </h3> <p align="center"> <img src="https://via.placeholder.com/250x500?text=Ritmo+V2+1" width="250px"> <img src="https://via.placeholder.com/250x500?text=Ritmo+V2+2" width="250px"> <img src="https://via.placeholder.com/250x500?text=Ritmo+V2+3" width="250px"> </p> <p align="center" style="color: gray;"> <i>⚠️ Projeto privado</i> </p>
+
+Descrição: Aplicativo oficial do ecossistema Ritmo do Esporte, utilizado por atletas e academias para gestão completa de treinos, pagamentos, contratos, ranking, avaliações físicas, feed social e muito mais. Fui responsável por todo o frontend mobile, novas telas, otimizações, integrações e fluxos, além de suporte ao backend.
+
+Stack (Frontend): React Native (Expo), Redux, Styled Components, React Hook Form, WebSockets, Push Notifications, Deep Linking.
+
+Stack (Backend – suporte): Node.js, Express, MySQL, AWS S3, Redis, ASAAS.
+
+Destaques:
+
+Reestruturação da V2 inteira do app
+
+Integração com ASAAS (planos, pagamentos, recorrência, boletos e PIX)
+
+Feed social, contratos, agenda, ranking, avaliações
+
+Otimização de navegação, performance e UI/UX
+
+Fluxos complexos com multi-permissions para atletas e responsáveis
+
+<br>
+
 <h3 align="center">
  <a href="https://github.com/felipebpassos/AtendeMais">&nbsp;&nbsp;&nbsp;&nbsp;&#9;Atende+</a>
 </h3>
