@@ -75,9 +75,9 @@ Feel free to [email me](mailto:contato@simplifyweb.com.br) or connect with me on
 
 <p align="center">
     <img src="https://github.com/felipebpassos/estudai/blob/main/img/Captura%20de%20tela%202025-07-24%20143612.png?raw=true" width="250px">
+    <img src="https://github.com/felipebpassos/estudai/blob/main/img/Captura%20de%20tela%202025-07-24%20143759.png?raw=true" width="250px">
     <img src="https://github.com/felipebpassos/estudai/blob/main/img/Captura%20de%20tela%202025-07-24%20143925.png?raw=true" width="250px">
     <img src="https://github.com/felipebpassos/estudai/blob/main/img/Captura%20de%20tela%202025-07-24%20144001.png?raw=true" width="250px">
-    <img src="https://via.placeholder.com/250x500?text=Estud.ai+4](https://github.com/felipebpassos/estudai/blob/main/img/Captura%20de%20tela%202025-07-24%20144032.png?raw=true" width="250px">
     <img src="https://github.com/felipebpassos/estudai/blob/main/img/Captura%20de%20tela%202025-07-24%20144142.png?raw=true" width="250px">
 </p>
 
