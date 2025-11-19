@@ -52,8 +52,6 @@ Feel free to [email me](mailto:contato@simplifyweb.com.br) or connect with me on
 - **Description**: Mobile app for sports academies, including billing, contracts, plans, payments, e-commerce and engagement features inside a multi-tenant ecosystem.
 - **Technologies**: React Native (Expo), TypeScript, Apollo Client (GraphQL), Redux, AWS S3, Deep Linking, Push Notifications.
 - **Highlights**: Full financial module (contracts, plans, invoices, payments), white-label UI, S3 uploads, internal store, ranking/feed features and optimized navigation/state.
-
- <p align="center"> <a href="https://play.google.com/store/apps/details?id=com.ritmodoesporte.ritmoatletas" target="_blank"> <img alt="Get it on Google Play" height="55" 
                                                                                                                                
 <p align="center">
   📱 <b>Play Store:</b> <a href="https://play.google.com/store/apps/details?id=com.ritmodoesporte.ritmoatletas" target="_blank">clique aqui</a>  
