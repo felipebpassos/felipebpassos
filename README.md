@@ -67,6 +67,29 @@ Feel free to [email me](mailto:contato@simplifyweb.com.br) or connect with me on
 
 ---
 
+<h3 align="center">
+ <a href="https://github.com/felipebpassos/pomar">&nbsp;&nbsp;&nbsp;&nbsp;&#9;Pomar do Brasil</a>
+</h3>
+
+<p align="center">
+    <img src="https://github.com/felipebpassos/felipebpassos/blob/main/pomar1.png?raw=true" alt="Image Example" width="250px">
+    <img src="https://github.com/felipebpassos/felipebpassos/blob/main/pomar2.png?raw=true" alt="Image Example" width="250px">
+    <img src="https://github.com/felipebpassos/felipebpassos/blob/main/pomar3.png?raw=true" alt="Image Example" width="250px">
+</p>
+
+- **Description**: A simple e-commerce and institutional website for a fruit pulp factory. It features a product catalog where users can browse items, add them to the cart, and submit their order via WhatsApp.
+- **Technologies**: PHP, JavaScript, Bootstrap, MySQL, HTML, CSS.
+- **Highlights**: A modern and responsive interface with a well-organized catalog. Orders are sent via WhatsApp, and the site also provides company details and contact options.
+
+<p align="center" style="color: gray;">
+    <i>👉 Test <a href="https://pomardobrasil.com.br">here</a></i> | 📂 <i><a href="https://github.com/felipebpassos/pomar">Repository</a></i>
+</p>
+
+<br>
+
+
+---
+
 <br>
 
 <h3 align="center">
@@ -123,28 +146,6 @@ Feel free to [email me](mailto:contato@simplifyweb.com.br) or connect with me on
 
 <p align="center">
     📂 <i><a href="https://github.com/felipebpassos/AtendeMais">See more</a></i>
-</p>
-
-<br>
-
----
-
-<h3 align="center">
- <a href="https://github.com/felipebpassos/pomar">&nbsp;&nbsp;&nbsp;&nbsp;&#9;Pomar do Brasil</a>
-</h3>
-
-<p align="center">
-    <img src="https://github.com/felipebpassos/felipebpassos/blob/main/pomar1.png?raw=true" alt="Image Example" width="250px">
-    <img src="https://github.com/felipebpassos/felipebpassos/blob/main/pomar2.png?raw=true" alt="Image Example" width="250px">
-    <img src="https://github.com/felipebpassos/felipebpassos/blob/main/pomar3.png?raw=true" alt="Image Example" width="250px">
-</p>
-
-- **Description**: A simple e-commerce and institutional website for a fruit pulp factory. It features a product catalog where users can browse items, add them to the cart, and submit their order via WhatsApp.
-- **Technologies**: PHP, JavaScript, Bootstrap, MySQL, HTML, CSS.
-- **Highlights**: A modern and responsive interface with a well-organized catalog. Orders are sent via WhatsApp, and the site also provides company details and contact options.
-
-<p align="center" style="color: gray;">
-    <i>👉 Test <a href="https://pomardobrasil.com.br">here</a></i> | 📂 <i><a href="https://github.com/felipebpassos/pomar">Repository</a></i>
 </p>
 
 <br>
