@@ -67,6 +67,35 @@ Feel free to [email me](mailto:contato@simplifyweb.com.br) or connect with me on
 
 ---
 
+<br>
+
+<h3 align="center">
+ <a href="https://github.com/felipebpassos/AtendeMais">&nbsp;&nbsp;&nbsp;&nbsp;&#9;Atende+</a>
+</h3>
+
+<p align="center">
+    <img src="https://github.com/felipebpassos/felipebpassos/blob/main/healup1.png?raw=true" alt="Image Example" width="250px">
+    <img src="https://github.com/felipebpassos/felipebpassos/blob/main/healup2.png?raw=true" alt="Image Example" width="250px">
+    <img src="https://github.com/felipebpassos/felipebpassos/blob/main/healup3.png?raw=true" alt="Image Example" width="250px">
+</p>
+
+<p align="center" style="color: gray;">
+    <i>⚠️ Private project</i>
+</p>
+
+- **Description**: A telemedicine marketplace mobile App for online appointments and scheduling, built with React Native and Node.js.
+- **Frontend Technologies**: React Native (Expo), Redux, Styled Components, WebRTC, Firebase (Push Notifications)
+- **Backend Technologies**: Node.js, Express.js, MySQL, AWS S3, ASAAS (Payment Integration), WebSockets, JWT, Redis, WebRTC, Firebase (Push Notifications) 
+- **Highlights**: Intuitive mobile app interface, video calls consultations via WebRTC, payment integration with card tokenization, advanced search functionality.
+
+<p align="center">
+    📂 <i><a href="https://github.com/felipebpassos/AtendeMais">See more</a></i>
+</p>
+
+<br>
+
+---
+
 <h3 align="center">
  <a href="https://github.com/felipebpassos/pomar">&nbsp;&nbsp;&nbsp;&nbsp;&#9;Pomar do Brasil</a>
 </h3>
@@ -117,35 +146,6 @@ Feel free to [email me](mailto:contato@simplifyweb.com.br) or connect with me on
 
 <p align="center" style="color: gray;">
     <i>👉 Test <a href="https://https://estudai.site/">here</a></i>
-</p>
-
-<br>
-
----
-
-<br>
-
-<h3 align="center">
- <a href="https://github.com/felipebpassos/AtendeMais">&nbsp;&nbsp;&nbsp;&nbsp;&#9;Atende+</a>
-</h3>
-
-<p align="center">
-    <img src="https://github.com/felipebpassos/felipebpassos/blob/main/healup1.png?raw=true" alt="Image Example" width="250px">
-    <img src="https://github.com/felipebpassos/felipebpassos/blob/main/healup2.png?raw=true" alt="Image Example" width="250px">
-    <img src="https://github.com/felipebpassos/felipebpassos/blob/main/healup3.png?raw=true" alt="Image Example" width="250px">
-</p>
-
-<p align="center" style="color: gray;">
-    <i>⚠️ Private project</i>
-</p>
-
-- **Description**: A telemedicine marketplace mobile App for online appointments and scheduling, built with React Native and Node.js.
-- **Frontend Technologies**: React Native (Expo), Redux, Styled Components, WebRTC, Firebase (Push Notifications)
-- **Backend Technologies**: Node.js, Express.js, MySQL, AWS S3, ASAAS (Payment Integration), WebSockets, JWT, Redis, WebRTC, Firebase (Push Notifications) 
-- **Highlights**: Intuitive mobile app interface, video calls consultations via WebRTC, payment integration with card tokenization, advanced search functionality.
-
-<p align="center">
-    📂 <i><a href="https://github.com/felipebpassos/AtendeMais">See more</a></i>
 </p>
 
 <br>
