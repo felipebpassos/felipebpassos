@@ -58,9 +58,7 @@ Feel free to [email me](mailto:contato@simplifyweb.com.br) or connect with me on
 - **Highlights**: Full financial module (contracts, plans, invoices, payments), white-label UI, S3 uploads, internal store, ranking/feed features and optimized navigation/state.
                                                                                                                                
 <p align="center">
-  📱 <b>Play Store:</b> <a href="https://play.google.com/store/apps/details?id=com.ritmodoesporte.ritmoatletas" target="_blank">try it</a>  
-  <br>
-  📱 <b>Apple Store:</b> <a href="https://apps.apple.com/us/app/ritmo-atletas/id1508732883" target="_blank">try it</a>
+  📱 <b>Play Store:</b> <a href="https://play.google.com/store/apps/details?id=com.ritmodoesporte.ritmoatletas" target="_blank">try it</a> | <b>Apple Store:</b> <a href="https://apps.apple.com/us/app/ritmo-atletas/id1508732883" target="_blank">try it</a>
 </p>
 
 <br>
